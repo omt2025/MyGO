@@ -1,0 +1,211 @@
+ffmpeg started on 2025-03-20 at 14:49:33
+Report written to "ffmpeg-20250320-144933.log"
+Log level: 48
+Command line:
+"C:\\Users\\MSI\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Gyan.FFmpeg.Essentials_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-7.1-essentials_build\\bin\\ffmpeg.exe" -report -i "C:\\mygo\\BanG Dream! Ave Mujica 01.mkv" -ss 00:00:16 -vframes 1 -vf "subtitles=C:\\mygo\\BanG Dream! Ave Mujica 01.mkv" -q:v 2 "C:\\mygo\\output_frames\\BanG Dream! Ave Mujica 01_0m16s.jpg"
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Splitting the commandline.
+Reading option '-report' ... matched as option 'report' (generate a report) with argument '1'.
+Reading option '-i' ... matched as input url with argument 'C:\mygo\BanG Dream! Ave Mujica 01.mkv'.
+Reading option '-ss' ... matched as option 'ss' (start transcoding at specified time) with argument '00:00:16'.
+Reading option '-vframes' ... matched as option 'vframes' (set the number of video frames to output) with argument '1'.
+Reading option '-vf' ... matched as option 'vf' (alias for -filter:v (apply filters to video streams)) with argument 'subtitles=C:\mygo\BanG Dream! Ave Mujica 01.mkv'.
+Reading option '-q:v' ... matched as option 'q' (use fixed quality scale (VBR)) with argument '2'.
+Reading option 'C:\mygo\output_frames\BanG Dream! Ave Mujica 01_0m16s.jpg' ... matched as output url.
+Finished splitting the commandline.
+Parsing a group of options: global .
+Applying option report (generate a report) with argument 1.
+Successfully parsed a group of options.
+Parsing a group of options: input url C:\mygo\BanG Dream! Ave Mujica 01.mkv.
+Successfully parsed a group of options.
+Opening an input file: C:\mygo\BanG Dream! Ave Mujica 01.mkv.
+[AVFormatContext @ 00000282455d0680] Opening 'C:\mygo\BanG Dream! Ave Mujica 01.mkv' for reading
+[file @ 00000282455d3040] Setting default whitelist 'file,crypto,data'
+[matroska,webm @ 00000282455d0680] Format matroska,webm probed with size=2048 and score=100
+[matroska,webm @ 00000282455d0680] Unknown entry 0x22B59D at pos. 4454
+[matroska,webm @ 00000282455d0680] Unknown entry 0x22B59D at pos. 4531
+[matroska,webm @ 00000282455d0680] Unknown entry 0x22B59D at pos. 7100
+[matroska,webm @ 00000282455d0680] Unknown entry 0x22B59D at pos. 9666
+st:0 removing common factor 1000000 from timebase
+st:1 removing common factor 1000000 from timebase
+st:2 removing common factor 1000000 from timebase
+st:3 removing common factor 1000000 from timebase
+[matroska,webm @ 00000282455d0680] Before avformat_find_stream_info() pos: 1054835 bytes read:1060581 seeks:2 nb_streams:14
+[hevc @ 00000282455d9340] nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+[hevc @ 00000282455d9340] Decoding VPS
+[hevc @ 00000282455d9340] Main 10 profile bitstream
+[hevc @ 00000282455d9340] nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+[hevc @ 00000282455d9340] Decoding SPS
+[hevc @ 00000282455d9340] Main 10 profile bitstream
+[hevc @ 00000282455d9340] Decoding VUI
+[hevc @ 00000282455d9340] nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+[hevc @ 00000282455d9340] Decoding PPS
+Transform tree:
+    mdct_inv_float_avx2 - type: mdct_float, len: 64, factors[2]: [2, any], flags: [aligned, out_of_place, inv_only]
+        fft32_asm_float_fma3 - type: fft_float, len: 32, factor: 2, flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+Transform tree:
+    mdct_inv_float_avx2 - type: mdct_float, len: 64, factors[2]: [2, any], flags: [aligned, out_of_place, inv_only]
+        fft32_asm_float_fma3 - type: fft_float, len: 32, factor: 2, flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+Transform tree:
+    mdct_pfa_3xM_inv_float_c - type: mdct_float, len: 96, factors[2]: [3, any], flags: [unaligned, out_of_place, inv_only]
+        fft16_ns_float_fma3 - type: fft_float, len: 16, factor: 2, flags: [aligned, inplace, out_of_place, preshuf]
+Transform tree:
+    mdct_inv_float_avx2 - type: mdct_float, len: 120, factors[2]: [2, any], flags: [aligned, out_of_place, inv_only]
+        fft_pfa_15xM_asm_float_avx2 - type: fft_float, len: 60, factors[2]: [15, 2], flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+            fft4_fwd_asm_float_sse2 - type: fft_float, len: 4, factor: 2, flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+Transform tree:
+    mdct_inv_float_avx2 - type: mdct_float, len: 128, factors[2]: [2, any], flags: [aligned, out_of_place, inv_only]
+        fft_sr_asm_float_avx2 - type: fft_float, len: 64, factor: 2, flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+Transform tree:
+    mdct_inv_float_avx2 - type: mdct_float, len: 480, factors[2]: [2, any], flags: [aligned, out_of_place, inv_only]
+        fft_pfa_15xM_asm_float_avx2 - type: fft_float, len: 240, factors[2]: [15, 2], flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+            fft16_asm_float_fma3 - type: fft_float, len: 16, factor: 2, flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+Transform tree:
+    mdct_inv_float_avx2 - type: mdct_float, len: 512, factors[2]: [2, any], flags: [aligned, out_of_place, inv_only]
+        fft_sr_asm_float_avx2 - type: fft_float, len: 256, factor: 2, flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+Transform tree:
+    mdct_pfa_3xM_inv_float_c - type: mdct_float, len: 768, factors[2]: [3, any], flags: [unaligned, out_of_place, inv_only]
+        fft_sr_ns_float_avx2 - type: fft_float, len: 128, factor: 2, flags: [aligned, inplace, out_of_place, preshuf]
+Transform tree:
+    mdct_inv_float_avx2 - type: mdct_float, len: 960, factors[2]: [2, any], flags: [aligned, out_of_place, inv_only]
+        fft_pfa_15xM_asm_float_avx2 - type: fft_float, len: 480, factors[2]: [15, 2], flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+            fft32_asm_float_fma3 - type: fft_float, len: 32, factor: 2, flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+Transform tree:
+    mdct_inv_float_avx2 - type: mdct_float, len: 1024, factors[2]: [2, any], flags: [aligned, out_of_place, inv_only]
+        fft_sr_asm_float_avx2 - type: fft_float, len: 512, factor: 2, flags: [aligned, inplace, out_of_place, preshuf, asm_call]
+Transform tree:
+    mdct_fwd_float_c - type: mdct_float, len: 1024, factors[2]: [2, any], flags: [unaligned, out_of_place, fwd_only]
+        fft_sr_ns_float_avx2 - type: fft_float, len: 512, factor: 2, flags: [aligned, inplace, out_of_place, preshuf]
+[matroska,webm @ 00000282455d0680] first_dts 0 not matching first dts NOPTS (pts 0, duration 41) in the queue
+[matroska,webm @ 00000282455d0680] max_analyze_duration 5000000 reached at 5018000 microseconds st:1
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 4 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 5 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 6 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 7 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 8 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 9 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 10 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 11 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 12 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] Could not find codec parameters for stream 13 (Attachment: none): unknown codec
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 00000282455d0680] After avformat_find_stream_info() pos: 1611171 bytes read:1617637 seeks:2 frames:339
+Input #0, matroska,webm, from 'C:\mygo\BanG Dream! Ave Mujica 01.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+    creation_time   : 2025-01-11T15:25:38.000000Z
+  Duration: 00:23:40.02, start: 0.000000, bitrate: 1984 kb/s
+  Stream #0:0, 120, 1/1000: Video: hevc (Main 10), yuv420p10le(tv), 1920x1080, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1790816
+        DURATION        : 00:23:39.961000000
+        NUMBER_OF_FRAMES: 34045
+        NUMBER_OF_BYTES : 317861118
+        _STATISTICS_WRITING_APP: mkvmerge v71.1.0 ('Fortitude') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-11 15:25:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1, 219, 1/1000: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 184668
+        DURATION        : 00:23:40.016000000
+        NUMBER_OF_FRAMES: 61155
+        NUMBER_OF_BYTES : 32779020
+        _STATISTICS_WRITING_APP: mkvmerge v71.1.0 ('Fortitude') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-11 15:25:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi), 0, 1/1000: Subtitle: ass (ssa) (default)
+      Metadata:
+        title           : chs
+        BPS             : 482
+        DURATION        : 00:23:23.620000000
+        NUMBER_OF_FRAMES: 964
+        NUMBER_OF_BYTES : 84664
+        _STATISTICS_WRITING_APP: mkvmerge v71.1.0 ('Fortitude') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-11 15:25:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi), 0, 1/1000: Subtitle: ass (ssa)
+      Metadata:
+        title           : cht
+        BPS             : 482
+        DURATION        : 00:23:23.620000000
+        NUMBER_OF_FRAMES: 964
+        NUMBER_OF_BYTES : 84673
+        _STATISTICS_WRITING_APP: mkvmerge v71.1.0 ('Fortitude') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-11 15:25:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : FOT-TsukuMin Pr6N E.FMU5VKH4.otf
+        mimetype        : font/otf
+  Stream #0:5, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : Source Han Sans SC Heavy.UMU5VKH4.otf
+        mimetype        : font/otf
+  Stream #0:6, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : Source Han Sans SC Medium.78EWHAV9.ttf
+        mimetype        : font/ttf
+  Stream #0:7, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : Source Han Sans SC.G5NL0KO5.otf
+        mimetype        : font/otf
+  Stream #0:8, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : Source Han Sans TC Heavy.OJ06IRHM.otf
+        mimetype        : font/otf
+  Stream #0:9, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : Source Han Sans TC Medium.IJR2GN3X.otf
+        mimetype        : font/otf
+  Stream #0:10, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : Source Han Sans TC.RRS9CDK6.otf
+        mimetype        : font/otf
+  Stream #0:11, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : Source Han Sans.9SAS0IDT.otf
+        mimetype        : font/otf
+  Stream #0:12, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : 方正中粗雅宋_GBK.PIPSS437.ttf
+        mimetype        : font/ttf
+  Stream #0:13, 0, 1/90000: Attachment: none
+      Metadata:
+        filename        : 方正粗雅宋_GBK.RLSWDSG0.ttf
+        mimetype        : font/ttf
+Successfully opened the file.
+Parsing a group of options: output url C:\mygo\output_frames\BanG Dream! Ave Mujica 01_0m16s.jpg.
+Applying option ss (start transcoding at specified time) with argument 00:00:16.
+Applying option vframes (set the number of video frames to output) with argument 1.
+Applying option vf (alias for -filter:v (apply filters to video streams)) with argument subtitles=C:\mygo\BanG Dream! Ave Mujica 01.mkv.
+Applying option q:v (use fixed quality scale (VBR)) with argument 2.
+Successfully parsed a group of options.
+Opening an output file: C:\mygo\output_frames\BanG Dream! Ave Mujica 01_0m16s.jpg.
+[out#0/image2 @ 0000028245ac9e40] No explicit maps, mapping streams automatically...
+[vost#0:0/mjpeg @ 0000028245a966c0] Created video stream from input stream 0:0
+[AVFilterGraph @ 0000028245b59900] Setting 'filename' to value 'C'
+[AVFilterGraph @ 0000028245b59900] Setting 'original_size' to value 'mygoBanG Dream! Ave Mujica 01.mkv'
+[Parsed_subtitles_0 @ 00000282457f8400] Unable to parse option value "mygoBanG Dream! Ave Mujica 01.mkv" as image size
+Error applying option 'original_size' to filter 'subtitles': Invalid argument
+Error opening output file C:\mygo\output_frames\BanG Dream! Ave Mujica 01_0m16s.jpg.
+Error opening output files: Invalid argument
+[AVIOContext @ 00000282455db500] Statistics: 1617637 bytes read, 2 seeks

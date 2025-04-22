@@ -1,0 +1,48 @@
+ffmpeg started on 2025-03-20 at 14:48:59
+Report written to "ffmpeg-20250320-144859.log"
+Log level: 48
+Command line:
+"C:\\Users\\MSI\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Gyan.FFmpeg.Essentials_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-7.1-essentials_build\\bin\\ffmpeg.exe" -report -i "C:\\mygo\\BanG" "Dream!" Ave Mujica 01.mkv -ss 00:00:16 -vframes 1 -vf "subtitles=C:\\mygo\\BanG" "Dream!" Ave Mujica 01.mkv -q:v 2 "C:\\mygo\\output_frames\\BanG" "Dream!" Ave Mujica 01_0m16s.jpg
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Splitting the commandline.
+Reading option '-report' ... matched as option 'report' (generate a report) with argument '1'.
+Reading option '-i' ... matched as input url with argument 'C:\mygo\BanG'.
+Reading option 'Dream!' ... matched as output url.
+Reading option 'Ave' ... matched as output url.
+Reading option 'Mujica' ... matched as output url.
+Reading option '01.mkv' ... matched as output url.
+Reading option '-ss' ... matched as option 'ss' (start transcoding at specified time) with argument '00:00:16'.
+Reading option '-vframes' ... matched as option 'vframes' (set the number of video frames to output) with argument '1'.
+Reading option '-vf' ... matched as option 'vf' (alias for -filter:v (apply filters to video streams)) with argument 'subtitles=C:\mygo\BanG'.
+Reading option 'Dream!' ... matched as output url.
+Reading option 'Ave' ... matched as output url.
+Reading option 'Mujica' ... matched as output url.
+Reading option '01.mkv' ... matched as output url.
+Reading option '-q:v' ... matched as option 'q' (use fixed quality scale (VBR)) with argument '2'.
+Reading option 'C:\mygo\output_frames\BanG' ... matched as output url.
+Reading option 'Dream!' ... matched as output url.
+Reading option 'Ave' ... matched as output url.
+Reading option 'Mujica' ... matched as output url.
+Reading option '01_0m16s.jpg' ... matched as output url.
+Finished splitting the commandline.
+Parsing a group of options: global .
+Applying option report (generate a report) with argument 1.
+Successfully parsed a group of options.
+Parsing a group of options: input url C:\mygo\BanG.
+Successfully parsed a group of options.
+Opening an input file: C:\mygo\BanG.
+[AVFormatContext @ 000002154c2d2fc0] Opening 'C:\mygo\BanG' for reading
+[file @ 000002154c2d3580] Setting default whitelist 'file,crypto,data'
+[in#0 @ 000002154c2d0c40] Error opening input: No such file or directory
+Error opening input file C:\mygo\BanG.
+Error opening input files: No such file or directory

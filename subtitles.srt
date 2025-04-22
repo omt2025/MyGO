@@ -1,0 +1,3868 @@
+1
+00:00:16,320 --> 00:00:17,400
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Doloris</b></font>
+
+2
+00:00:16,320 --> 00:00:17,400
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ドロリス</b></font>
+
+3
+00:00:19,870 --> 00:00:24,000
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Doloris  请起来  觉醒之夜已至</b></font>
+
+4
+00:00:19,870 --> 00:00:24,000
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ドロリス　さあ　目覚めの夜よ</b></font>
+
+5
+00:00:24,000 --> 00:00:26,440
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>要我来唤醒她吗？</b></font>
+
+6
+00:00:24,000 --> 00:00:26,440
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>あたしが起こしてあげようか？</b></font>
+
+7
+00:00:26,440 --> 00:00:29,220
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>如果强行唤醒她  很有可能会伤及灵魂</b></font>
+
+8
+00:00:26,440 --> 00:00:29,220
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>無理に起こせば　魂が壊れてしまうかも</b></font>
+
+9
+00:00:29,610 --> 00:00:30,780
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>姐姐大人</b></font>
+
+10
+00:00:29,610 --> 00:00:30,780
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お姉さま</b></font>
+
+11
+00:00:30,780 --> 00:00:34,350
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>没问题的  月光会为我们唤醒 Doloris</b></font>
+
+12
+00:00:30,780 --> 00:00:34,350
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>大丈夫　月の光が起してくれますわ</b></font>
+
+13
+00:00:35,430 --> 00:00:38,980
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>阴影笼罩所下的月亮将会苏醒  再次绽放出光辉</b></font>
+
+14
+00:00:35,430 --> 00:00:38,980
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>影に飲み込まれた月は息を吹き返し</b></font>
+
+15
+00:00:38,980 --> 00:00:43,730
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>悲哀的人偶也将会  再度被赋予虚幻的生命</b></font>
+
+16
+00:00:38,980 --> 00:00:43,730
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>憐れな人形は　再び仮初めの命を宿す</b></font>
+
+17
+00:01:03,540 --> 00:01:05,420
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>来吧  让我们开始</b></font>
+
+18
+00:01:03,540 --> 00:01:05,420
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>さあ　始めましょう</b></font>
+
+19
+00:01:05,740 --> 00:01:07,660
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>今夜的假面舞会</b></font>
+
+20
+00:01:05,740 --> 00:01:07,660
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>今宵のマスカレードを</b></font>
+
+21
+00:01:43,000 --> 00:01:46,770
+<font face="FOT-TsukuMin Pr6N E" size="60">弄られて垂れ流す　音のない音</font>
+
+22
+00:01:43,000 --> 00:01:46,770
+<font face="方正中粗雅宋_GBK" size="60">遭受命运的玩弄 唯能吟唱无声之音</font>
+
+23
+00:01:46,770 --> 00:01:52,550
+<font face="FOT-TsukuMin Pr6N E" size="60">遍く　名前を捨てたのね　あなたのモザイクが泣いてる</font>
+
+24
+00:01:46,770 --> 00:01:52,550
+<font face="方正中粗雅宋_GBK" size="60">将名字尽数舍弃 只见你哭泣的模糊身影</font>
+
+25
+00:01:52,550 --> 00:01:57,340
+<font face="FOT-TsukuMin Pr6N E" size="60">Can not, can not, not, not, not deny 紛れもなく真実</font>
+
+26
+00:01:52,550 --> 00:01:57,340
+<font face="方正中粗雅宋_GBK" size="60">无法 无法 无法将之否认 不折不扣的真相</font>
+
+27
+00:01:57,340 --> 00:02:02,230
+<font face="FOT-TsukuMin Pr6N E" size="60">さあ　預けて　回帰するように</font>
+
+28
+00:01:57,340 --> 00:02:02,230
+<font face="方正中粗雅宋_GBK" size="60">请你托付于我 只为就此归来</font>
+
+29
+00:02:02,230 --> 00:02:08,230
+<font face="FOT-TsukuMin Pr6N E" size="60">エネルギーはサイクル　そう　いまは無重力</font>
+
+30
+00:02:02,230 --> 00:02:08,230
+<font face="方正中粗雅宋_GBK" size="60">能量循环往复 此刻已然失重</font>
+
+31
+00:02:08,230 --> 00:02:15,530
+<font face="FOT-TsukuMin Pr6N E" size="60">象徵的なバレード　この月夜に仰げよ仰げ</font>
+
+32
+00:02:08,230 --> 00:02:15,530
+<font face="方正中粗雅宋_GBK" size="60">象征性的游行 于月夜抬头仰望</font>
+
+33
+00:02:15,530 --> 00:02:17,200
+<font face="FOT-TsukuMin Pr6N E" size="60">'completeness'</font>
+
+34
+00:02:15,530 --> 00:02:17,200
+<font face="方正中粗雅宋_GBK" size="60">'完好无缺'</font>
+
+35
+00:02:17,200 --> 00:02:20,950
+<font face="FOT-TsukuMin Pr6N E" size="60">ああ　命の灯を揚げ</font>
+
+36
+00:02:17,200 --> 00:02:20,950
+<font face="方正中粗雅宋_GBK" size="60">啊 高举生命之灯</font>
+
+37
+00:02:20,950 --> 00:02:24,500
+<font face="FOT-TsukuMin Pr6N E" size="60">KiLLKiSS judy.., KiLLKiSS jude.., KiLLKiSS juda..</font>
+
+38
+00:02:20,950 --> 00:02:24,500
+<font face="方正中粗雅宋_GBK" size="60">致命之吻 致命之吻 致命之吻</font>
+
+39
+00:02:24,500 --> 00:02:25,630
+<font face="FOT-TsukuMin Pr6N E" size="60">欺いて</font>
+
+40
+00:02:24,500 --> 00:02:25,630
+<font face="方正中粗雅宋_GBK" size="60">瞒天过海</font>
+
+41
+00:02:25,630 --> 00:02:29,300
+<font face="FOT-TsukuMin Pr6N E" size="60">KiLLKiSS judy.., KiLLKiSS jude.., KiLLKiSS juda..</font>
+
+42
+00:02:25,630 --> 00:02:29,300
+<font face="方正中粗雅宋_GBK" size="60">致命之吻 致命之吻 致命之吻</font>
+
+43
+00:02:29,300 --> 00:02:30,800
+<font face="FOT-TsukuMin Pr6N E" size="60">抱きしめて</font>
+
+44
+00:02:29,300 --> 00:02:30,800
+<font face="方正中粗雅宋_GBK" size="60">紧抱入怀</font>
+
+45
+00:02:30,800 --> 00:02:39,220
+<font face="FOT-TsukuMin Pr6N E" size="60">ねえ　無防備だね 美しい戯れに　人は壊れてゆく</font>
+
+46
+00:02:30,800 --> 00:02:39,220
+<font face="方正中粗雅宋_GBK" size="60">真是毫无防备啊 沉溺甜美嬉戏终将使人毁于一旦</font>
+
+47
+00:02:39,220 --> 00:02:41,180
+<font face="FOT-TsukuMin Pr6N E" size="60">可笑しいわね</font>
+
+48
+00:02:39,220 --> 00:02:41,180
+<font face="方正中粗雅宋_GBK" size="60">多么可笑啊</font>
+
+49
+00:02:50,650 --> 00:02:54,030
+<font face="FOT-TsukuMin Pr6N E" size="60">'cuz we're all alone</font>
+
+50
+00:02:50,650 --> 00:02:54,030
+<font face="方正中粗雅宋_GBK" size="60">只因我们都很孤独</font>
+
+51
+00:02:54,030 --> 00:02:59,490
+<font face="FOT-TsukuMin Pr6N E" size="60">Alone, 噛み締めても　まだ痛むなら</font>
+
+52
+00:02:54,030 --> 00:02:59,490
+<font face="方正中粗雅宋_GBK" size="60">倘若细品孤独 仍觉疼痛</font>
+
+53
+00:02:59,490 --> 00:03:08,330
+<font face="FOT-TsukuMin Pr6N E" size="60">手を挙げ　希え</font>
+
+54
+00:02:59,490 --> 00:03:08,330
+<font face="方正中粗雅宋_GBK" size="60">高举双手 虔诚祈愿</font>
+
+55
+00:03:08,330 --> 00:03:13,340
+<font face="FOT-TsukuMin Pr6N E" size="60">oh, when you bleed, 惑星にそう　その影を伸ばせ</font>
+
+56
+00:03:08,330 --> 00:03:13,340
+<font face="方正中粗雅宋_GBK" size="60">当你流血 在行星上投下阴影</font>
+
+57
+00:03:13,340 --> 00:03:19,680
+<font face="FOT-TsukuMin Pr6N E" size="60">ねえ　私の世界が知りたがっているわ　さあ</font>
+
+58
+00:03:13,340 --> 00:03:19,680
+<font face="方正中粗雅宋_GBK" size="60">我的世界正渴望了解</font>
+
+59
+00:03:19,680 --> 00:03:28,440
+<font face="FOT-TsukuMin Pr6N E" size="60">You bleed, yes, bleed その血で　天(そら)の五線譜を書き換えれば</font>
+
+60
+00:03:19,680 --> 00:03:28,440
+<font face="方正中粗雅宋_GBK" size="60">你的鲜血 没错流淌而下的血液 若能改画为天空的五线谱</font>
+
+61
+00:03:28,440 --> 00:03:30,520
+<font face="FOT-TsukuMin Pr6N E" size="60">Code 'KiLLKiSS' uh..</font>
+
+62
+00:03:28,440 --> 00:03:30,520
+<font face="方正中粗雅宋_GBK" size="60">代号'致命之吻' uh..</font>
+
+63
+00:03:30,520 --> 00:03:34,150
+<font face="FOT-TsukuMin Pr6N E" size="60">KiLLKiSS judy.., KiLLKiSS jude.., KiLLKiSS juda..</font>
+
+64
+00:03:30,520 --> 00:03:34,150
+<font face="方正中粗雅宋_GBK" size="60">致命之吻 致命之吻 致命之吻</font>
+
+65
+00:03:34,150 --> 00:03:35,200
+<font face="FOT-TsukuMin Pr6N E" size="60">欺いて</font>
+
+66
+00:03:34,150 --> 00:03:35,200
+<font face="方正中粗雅宋_GBK" size="60">瞒天过海</font>
+
+67
+00:03:35,200 --> 00:03:38,990
+<font face="FOT-TsukuMin Pr6N E" size="60">KiLLKiSS judy.., KiLLKiSS jude.., KiLLKiSS juda..</font>
+
+68
+00:03:35,200 --> 00:03:38,990
+<font face="方正中粗雅宋_GBK" size="60">致命之吻 致命之吻 致命之吻</font>
+
+69
+00:03:38,990 --> 00:03:40,280
+<font face="FOT-TsukuMin Pr6N E" size="60">抱きしめて</font>
+
+70
+00:03:38,990 --> 00:03:40,280
+<font face="方正中粗雅宋_GBK" size="60">紧抱入怀</font>
+
+71
+00:03:40,280 --> 00:03:48,790
+<font face="FOT-TsukuMin Pr6N E" size="60">ねぇ　あからさまね　醜い終局に　すべてが変わってゆく</font>
+
+72
+00:03:40,280 --> 00:03:48,790
+<font face="方正中粗雅宋_GBK" size="60">真是明目张胆啊 丑陋结局终将改写一切</font>
+
+73
+00:03:48,790 --> 00:03:50,790
+<font face="FOT-TsukuMin Pr6N E" size="60">儚いのね</font>
+
+74
+00:03:48,790 --> 00:03:50,790
+<font face="方正中粗雅宋_GBK" size="60">还真是缥缈啊</font>
+
+75
+00:03:52,670 --> 00:04:03,970
+<font face="FOT-TsukuMin Pr6N E" size="60">そう　このまま　壊れて</font>
+
+76
+00:03:52,670 --> 00:04:03,970
+<font face="方正中粗雅宋_GBK" size="60">就这样任其崩坏吧</font>
+
+77
+00:04:15,390 --> 00:04:17,950
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>接下来我要为您揭开一段</b></font>
+
+78
+00:04:15,390 --> 00:04:17,950
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>これからご覧に入れますのは</b></font>
+
+79
+00:04:19,750 --> 00:04:23,750
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>关于少女心怀秘密的故事</b></font>
+
+80
+00:04:19,750 --> 00:04:23,750
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>秘密を抱えた　彼女の話</b></font>
+
+81
+00:04:27,460 --> 00:04:29,560
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>采访在五分钟后</b></font>
+
+82
+00:04:27,460 --> 00:04:29,560
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>あと五分で取材です</b></font>
+
+83
+00:04:29,560 --> 00:04:31,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>糟糕  必须补一下妆</b></font>
+
+84
+00:04:29,560 --> 00:04:31,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>やば　メイク直さないと</b></font>
+
+85
+00:04:31,920 --> 00:04:33,550
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>假面不都把脸挡住了</b></font>
+
+86
+00:04:31,920 --> 00:04:33,550
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>仮面で隠れてしまいますが？</b></font>
+
+87
+00:04:33,550 --> 00:04:36,510
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我不想因为别人看不见  就对自己敷衍了事</b></font>
+
+88
+00:04:33,550 --> 00:04:36,510
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>見えないからって　手抜きたくないの</b></font>
+
+89
+00:04:36,510 --> 00:04:39,880
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>毕竟小海也不想看到敷衍了事的喵姆亲吧？</b></font>
+
+90
+00:04:36,510 --> 00:04:39,880
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ウミコだって　手抜きにゃむち見たくないでしょう？</b></font>
+
+91
+00:04:39,880 --> 00:04:42,010
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>睦  要采访了</b></font>
+
+92
+00:04:39,880 --> 00:04:42,010
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>睦　取材ですわ</b></font>
+
+93
+00:04:42,550 --> 00:04:43,280
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>嗯</b></font>
+
+94
+00:04:42,550 --> 00:04:43,280
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>うん</b></font>
+
+95
+00:04:43,890 --> 00:04:45,150
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我们先走了</b></font>
+
+96
+00:04:43,890 --> 00:04:45,150
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>先に行くね</b></font>
+
+97
+00:04:45,150 --> 00:04:48,270
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>等下等下啦  我真要补妆啦</b></font>
+
+98
+00:04:45,150 --> 00:04:48,270
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>待って待って　マジでメイク</b></font>
+
+99
+00:04:48,270 --> 00:04:50,150
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我等的使命是</b></font>
+
+100
+00:04:48,270 --> 00:04:50,150
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>わたくしたちの使命は</b></font>
+
+101
+00:04:50,150 --> 00:04:53,150
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>为在座的各位来宾带来美梦</b></font>
+
+102
+00:04:50,150 --> 00:04:53,150
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ゲストの皆様に夢を見ていただくこと</b></font>
+
+103
+00:04:53,410 --> 00:04:54,770
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>在接下来的武道馆</b></font>
+
+104
+00:04:53,410 --> 00:04:54,770
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>次の武道館でも</b></font>
+
+105
+00:04:54,770 --> 00:04:57,720
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>若您能徜徉于 Ave Mujica 的世界</b></font>
+
+106
+00:04:54,770 --> 00:04:57,720
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Ave Mujica の世界に迷い込んでいただけましたら</b></font>
+
+107
+00:04:57,720 --> 00:04:59,670
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>那将是我们的至高荣幸</b></font>
+
+108
+00:04:57,720 --> 00:04:59,670
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>至上の喜びでございます</b></font>
+
+109
+00:04:59,670 --> 00:05:01,930
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>要去武道馆了  好不可思议啊</b></font>
+
+110
+00:04:59,670 --> 00:05:01,930
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>武道館って　すごいよね</b></font>
+
+111
+00:05:01,930 --> 00:05:03,660
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>毕竟我们才刚出道</b></font>
+
+112
+00:05:01,930 --> 00:05:03,660
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>デビューから間もないですからね</b></font>
+
+113
+00:05:03,660 --> 00:05:06,830
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>请强调一下  我们是史上最快哟</b></font>
+
+114
+00:05:03,660 --> 00:05:06,830
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>史上最速って強調しておいて</b></font>
+
+115
+00:05:06,830 --> 00:05:08,200
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>好  好的</b></font>
+
+116
+00:05:06,830 --> 00:05:08,200
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>は　はい</b></font>
+
+117
+00:05:08,200 --> 00:05:09,960
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Mortis 小姐有什么感想吗？</b></font>
+
+118
+00:05:08,200 --> 00:05:09,960
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>モーティスさんはいかがですか？</b></font>
+
+119
+00:05:13,520 --> 00:05:14,660
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我…</b></font>
+
+120
+00:05:13,520 --> 00:05:14,660
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>わたしは</b></font>
+
+121
+00:05:17,400 --> 00:05:20,900
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>如您所见  Mortis 有些腼腆</b></font>
+
+122
+00:05:17,400 --> 00:05:20,900
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ご覧の通り　モーティスは少々人見知りでして</b></font>
+
+123
+00:05:20,900 --> 00:05:23,630
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>那么 Mortis  请向大家致谢</b></font>
+
+124
+00:05:20,900 --> 00:05:23,630
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>モーティス　本日のお礼を</b></font>
+
+125
+00:05:23,630 --> 00:05:25,850
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>非常感谢大家能来</b></font>
+
+126
+00:05:23,630 --> 00:05:25,850
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ありがとうございました</b></font>
+
+127
+00:05:26,280 --> 00:05:27,470
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>祝大家今夜愉快</b></font>
+
+128
+00:05:26,280 --> 00:05:27,470
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>良い夜を</b></font>
+
+129
+00:05:27,730 --> 00:05:30,440
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>照片洗好后请马上发给我哟</b></font>
+
+130
+00:05:27,730 --> 00:05:30,440
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>スチールきたら　すぐまわしてね</b></font>
+
+131
+00:05:31,000 --> 00:05:33,230
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>嗯  总算结束了</b></font>
+
+132
+00:05:31,000 --> 00:05:33,230
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ああ　とりあえず全部</b></font>
+
+133
+00:05:33,590 --> 00:05:35,930
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>回到后台前请不要摘下假面</b></font>
+
+134
+00:05:33,590 --> 00:05:35,930
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>楽屋に戻るまでは外さないで</b></font>
+
+135
+00:05:35,930 --> 00:05:37,980
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>而且不知道有没有人在看着我们</b></font>
+
+136
+00:05:35,930 --> 00:05:37,980
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>誰が見ているかわかりませんから</b></font>
+
+137
+00:05:37,980 --> 00:05:40,610
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>哎  我们会被揭穿真面目吗？</b></font>
+
+138
+00:05:37,980 --> 00:05:40,610
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>へぇ　すっぱ抜かれちゃう？</b></font>
+
+139
+00:05:40,610 --> 00:05:42,330
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>其实 Amoris 的真身是  那位喵姆</b></font>
+
+140
+00:05:40,610 --> 00:05:42,330
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>アモーリスの正体は　あのにゃむ</b></font>
+
+141
+00:05:42,330 --> 00:05:43,490
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Amoris</b></font>
+
+142
+00:05:42,330 --> 00:05:43,490
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>アモーリス</b></font>
+
+143
+00:05:45,280 --> 00:05:47,070
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我们几个呀</b></font>
+
+144
+00:05:45,280 --> 00:05:47,070
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>あたしたちってさあ</b></font>
+
+145
+00:05:47,070 --> 00:05:49,250
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>要戴着这假面到什么时候</b></font>
+
+146
+00:05:47,070 --> 00:05:49,250
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>これからもずっと仮面でいくの</b></font>
+
+147
+00:05:50,100 --> 00:05:52,500
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>长相和数字都浪费了</b></font>
+
+148
+00:05:50,100 --> 00:05:52,500
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>顔と数字が台無しなんだけど</b></font>
+
+149
+00:05:55,820 --> 00:05:57,290
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>sumimi 的初华</b></font>
+
+150
+00:05:55,820 --> 00:05:57,290
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>スミミの初華</b></font>
+
+151
+00:05:57,290 --> 00:06:01,300
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>大谐星若叶与实力派女演员森美奈美的女儿</b></font>
+
+152
+00:05:57,290 --> 00:06:01,300
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お笑い大御所若葉と演技派女優森みなみの娘</b></font>
+
+153
+00:06:01,300 --> 00:06:05,800
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>明明我们只需要摘下假面  就能吸引全世界的目光</b></font>
+
+154
+00:06:01,300 --> 00:06:05,800
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>仮面を外すだけで世間の注目　全部取れるのに</b></font>
+
+155
+00:06:05,800 --> 00:06:08,310
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Ave Mujica 不会贱卖自身  追求廉价曝光</b></font>
+
+156
+00:06:05,800 --> 00:06:08,310
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Ave Mujica は安売りをいたしません</b></font>
+
+157
+00:06:08,580 --> 00:06:10,940
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我们首先要积累成绩  取得音乐性的评价</b></font>
+
+158
+00:06:08,580 --> 00:06:10,940
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>まずは実績を重ね　音楽性の評価を</b></font>
+
+159
+00:06:10,940 --> 00:06:14,310
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>即便曾经喜欢  转眼间就变得厌倦</b></font>
+
+160
+00:06:10,940 --> 00:06:14,310
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>昨日好きでも　今日は飽きた</b></font>
+
+161
+00:06:15,560 --> 00:06:17,690
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>现在的世界就是如此残酷</b></font>
+
+162
+00:06:15,560 --> 00:06:17,690
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>世の中って残酷だから</b></font>
+
+163
+00:06:17,690 --> 00:06:20,480
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>磨磨蹭蹭的  恐怕粉丝们会厌倦哦</b></font>
+
+164
+00:06:17,690 --> 00:06:20,480
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ちんたらしてたら飽きられちゃうかもよ</b></font>
+
+165
+00:06:21,410 --> 00:06:25,700
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我并不打算让这个乐队的流行止于一时</b></font>
+
+166
+00:06:21,410 --> 00:06:25,700
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>わたくしはこのバンドを　一時の流行で終わらせるつもりはございません</b></font>
+
+167
+00:06:26,290 --> 00:06:27,600
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我说过吧</b></font>
+
+168
+00:06:26,290 --> 00:06:27,600
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>言ったでしょう</b></font>
+
+169
+00:06:27,600 --> 00:06:30,580
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>请将你们剩余的人生  托付给我</b></font>
+
+170
+00:06:27,600 --> 00:06:30,580
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>残りの人生　わたくしにくださいと</b></font>
+
+171
+00:06:34,290 --> 00:06:36,200
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>摘下假面</b></font>
+
+172
+00:06:34,290 --> 00:06:36,200
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>仮面を外すのは</b></font>
+
+173
+00:06:36,200 --> 00:06:37,950
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>需要至高的舞台</b></font>
+
+174
+00:06:36,200 --> 00:06:37,950
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>最高の舞台</b></font>
+
+175
+00:06:37,950 --> 00:06:40,670
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>以及最棒的时机</b></font>
+
+176
+00:06:37,950 --> 00:06:40,670
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>最高のタイミングで</b></font>
+
+177
+00:06:41,840 --> 00:06:43,900
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>刚刚我好感动</b></font>
+
+178
+00:06:41,840 --> 00:06:43,900
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>さっき感動しちゃった</b></font>
+
+179
+00:06:44,640 --> 00:06:48,560
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你真的很珍惜 Ave Mujica 的大家</b></font>
+
+180
+00:06:44,640 --> 00:06:48,560
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Ave Mujica のこと　すごく大切にしてくれるんだって</b></font>
+
+181
+00:06:48,790 --> 00:06:50,350
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这是当然</b></font>
+
+182
+00:06:48,790 --> 00:06:50,350
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>それはそうですわ</b></font>
+
+183
+00:06:50,350 --> 00:06:52,610
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>毕竟我说了  请将你们剩余的人生  托付给我</b></font>
+
+184
+00:06:50,350 --> 00:06:52,610
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>皆さんの人生を預かるのですから</b></font>
+
+185
+00:06:51,060 --> 00:06:55,100
+<font face="方正粗雅宋_GBK" size="70" color="#f7f5f7">秘密</font>
+
+186
+00:06:51,060 --> 00:06:55,100
+<font face="方正粗雅宋_GBK" size="70" color="#f7f5f7"><font color="#26303e">秘密</font></font>
+
+187
+00:06:52,610 --> 00:06:55,850
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我们才刚刚出道就积攒了这么高的人气</b></font>
+
+188
+00:06:52,610 --> 00:06:55,850
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>デビューしたばかりで　こんなに人気になるなんて</b></font>
+
+189
+00:06:55,850 --> 00:06:57,790
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>果然小祥很厉害</b></font>
+
+190
+00:06:55,850 --> 00:06:57,790
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>やっぱり咲ちゃんはすごい</b></font>
+
+191
+00:06:57,790 --> 00:06:59,440
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这都多亏了初华</b></font>
+
+192
+00:06:57,790 --> 00:06:59,440
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>初華のおかげですわ</b></font>
+
+193
+00:06:59,440 --> 00:07:01,440
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你作为 Ave Mujica 的主唱</b></font>
+
+194
+00:06:59,440 --> 00:07:01,440
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Ave Mujica のフロントとして</b></font>
+
+195
+00:07:01,440 --> 00:07:03,570
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我想没有人能比你做得更好</b></font>
+
+196
+00:07:01,440 --> 00:07:03,570
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>これ以上はないと思っています</b></font>
+
+197
+00:07:04,290 --> 00:07:06,030
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>哎  组乐队？</b></font>
+
+198
+00:07:04,290 --> 00:07:06,030
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>え　バンド</b></font>
+
+199
+00:07:06,030 --> 00:07:09,030
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>嗯  还是要组成职业乐队</b></font>
+
+200
+00:07:06,030 --> 00:07:09,030
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ええ　それもプロとしてやっていく</b></font>
+
+201
+00:07:11,450 --> 00:07:13,290
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我知道了  可以哟</b></font>
+
+202
+00:07:11,450 --> 00:07:13,290
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>わかった　いいよ</b></font>
+
+203
+00:07:13,550 --> 00:07:16,040
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>可以吗？我还什么都没解释</b></font>
+
+204
+00:07:13,550 --> 00:07:16,040
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>本当に　まだなにも</b></font>
+
+205
+00:07:16,040 --> 00:07:18,000
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>毕竟是小祥的请求嘛</b></font>
+
+206
+00:07:16,040 --> 00:07:18,000
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>咲ちゃんの頼みだもん</b></font>
+
+207
+00:07:19,910 --> 00:07:21,890
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你这样好吗</b></font>
+
+208
+00:07:19,910 --> 00:07:21,890
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>よろしかったんですの</b></font>
+
+209
+00:07:21,890 --> 00:07:23,190
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>什么都不问</b></font>
+
+210
+00:07:21,890 --> 00:07:23,190
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>何も聞かずに</b></font>
+
+211
+00:07:23,190 --> 00:07:24,300
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>没关系</b></font>
+
+212
+00:07:23,190 --> 00:07:24,300
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>うん</b></font>
+
+213
+00:07:25,140 --> 00:07:28,930
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你绝对是会被骗去买水晶的那种人</b></font>
+
+214
+00:07:25,140 --> 00:07:28,930
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>初華は絶対　水晶とか買わされるタイプの人間ですわ</b></font>
+
+215
+00:07:29,540 --> 00:07:30,890
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>好过分啊</b></font>
+
+216
+00:07:29,540 --> 00:07:30,890
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ひどいな</b></font>
+
+217
+00:07:30,890 --> 00:07:32,350
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>虽说是同一家经纪公司</b></font>
+
+218
+00:07:30,890 --> 00:07:32,350
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>同じ事務所とはいえ</b></font>
+
+219
+00:07:32,350 --> 00:07:35,390
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>但你还要兼顾 sumimi 的活动  很辛苦吧</b></font>
+
+220
+00:07:32,350 --> 00:07:35,390
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>スミミと並行しての活動は大変ですわよね</b></font>
+
+221
+00:07:35,390 --> 00:07:36,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>还请不要给自己太多负担</b></font>
+
+222
+00:07:35,390 --> 00:07:36,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>なるべく負担にならないように</b></font>
+
+223
+00:07:36,920 --> 00:07:38,820
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这完全不算负担啦</b></font>
+
+224
+00:07:36,920 --> 00:07:38,820
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>負担じゃないよ　全然</b></font>
+
+225
+00:07:38,820 --> 00:07:41,360
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>倒不如说能帮我转换心情</b></font>
+
+226
+00:07:38,820 --> 00:07:41,360
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>むしろ気分転換になってるし</b></font>
+
+227
+00:07:44,640 --> 00:07:45,590
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>那就好</b></font>
+
+228
+00:07:44,640 --> 00:07:45,590
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ううん</b></font>
+
+229
+00:07:47,690 --> 00:07:52,120
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我的梦想是  想和小祥一辈子都在一起</b></font>
+
+230
+00:07:47,690 --> 00:07:52,120
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>咲ちゃんと　ずっと一生にいたいって夢が</b></font>
+
+231
+00:07:52,120 --> 00:07:53,580
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>然后现在实现了</b></font>
+
+232
+00:07:52,120 --> 00:07:53,580
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>叶ったから</b></font>
+
+233
+00:07:53,990 --> 00:07:55,060
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>初华</b></font>
+
+234
+00:07:53,990 --> 00:07:55,060
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>初華</b></font>
+
+235
+00:07:59,620 --> 00:08:00,740
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>工作吗</b></font>
+
+236
+00:07:59,620 --> 00:08:00,740
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>仕事</b></font>
+
+237
+00:08:00,740 --> 00:08:02,520
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>嗯  回见</b></font>
+
+238
+00:08:00,740 --> 00:08:02,520
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ええ　初華　また</b></font>
+
+239
+00:08:04,330 --> 00:08:05,840
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我是丰川</b></font>
+
+240
+00:08:04,330 --> 00:08:05,840
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>豊川です</b></font>
+
+241
+00:08:07,840 --> 00:08:09,970
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>请您过目</b></font>
+
+242
+00:08:07,840 --> 00:08:09,970
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>こちら　お願いします</b></font>
+
+243
+00:08:10,280 --> 00:08:12,850
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你爸爸又在巷子里醉倒了</b></font>
+
+244
+00:08:10,280 --> 00:08:12,850
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>また路地裏で酔い潰れていたの</b></font>
+
+245
+00:08:13,170 --> 00:08:16,940
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>一次次地给您造成麻烦  实在非常抱歉</b></font>
+
+246
+00:08:13,170 --> 00:08:16,940
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>何度もご迷惑をおかけして　申し訳ありません</b></font>
+
+247
+00:08:23,250 --> 00:08:24,320
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>父亲</b></font>
+
+248
+00:08:23,250 --> 00:08:24,320
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様</b></font>
+
+249
+00:08:26,100 --> 00:08:28,200
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>像我这种人  不存在就最好了</b></font>
+
+250
+00:08:26,100 --> 00:08:28,200
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>俺なんて　いない方がいいんだ</b></font>
+
+251
+00:08:31,200 --> 00:08:33,760
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>不要说些莫名其妙的话</b></font>
+
+252
+00:08:31,200 --> 00:08:33,760
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>訳わからないこと言ってないで</b></font>
+
+253
+00:08:33,760 --> 00:08:35,130
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>听到没  振作点</b></font>
+
+254
+00:08:33,760 --> 00:08:35,130
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ほら　しっかり</b></font>
+
+255
+00:08:35,130 --> 00:08:36,700
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我们回家</b></font>
+
+256
+00:08:35,130 --> 00:08:36,700
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>帰りますわよ</b></font>
+
+257
+00:08:52,110 --> 00:08:54,080
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>上武道馆之前还有四首要写</b></font>
+
+258
+00:08:52,110 --> 00:08:54,080
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>武道館までに四曲</b></font>
+
+259
+00:08:54,080 --> 00:08:56,440
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>考虑到初华作词的时间…</b></font>
+
+260
+00:08:54,080 --> 00:08:56,440
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>初華の作詞の時間を考えると…</b></font>
+
+261
+00:08:55,060 --> 00:08:57,270
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>{\an8}瑞穗…</b></font>
+
+262
+00:08:55,060 --> 00:08:57,270
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>{\an8}瑞穂…</b></font>
+
+263
+00:08:56,440 --> 00:08:58,990
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>最差情况下  这周末也要写出两首</b></font>
+
+264
+00:08:56,440 --> 00:08:58,990
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>最低でも　この週末に二曲</b></font>
+
+265
+00:09:10,270 --> 00:09:11,910
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>弹得真好呢</b></font>
+
+266
+00:09:10,270 --> 00:09:11,910
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>本当に上手ね</b></font>
+
+267
+00:09:11,910 --> 00:09:13,800
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>因为是母亲喜欢的曲子</b></font>
+
+268
+00:09:11,910 --> 00:09:13,800
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お母様の好きな曲だから</b></font>
+
+269
+00:09:13,800 --> 00:09:15,590
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>所以我练习了很多次呢</b></font>
+
+270
+00:09:13,800 --> 00:09:15,590
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>いっぱい練習しましたの</b></font>
+
+271
+00:09:15,590 --> 00:09:17,790
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>下次  把阿睦也叫来…</b></font>
+
+272
+00:09:15,590 --> 00:09:17,790
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>今度　睦も呼んで…</b></font>
+
+273
+00:09:18,050 --> 00:09:18,970
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>怎么啦？</b></font>
+
+274
+00:09:18,050 --> 00:09:18,970
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>なあに？</b></font>
+
+275
+00:09:18,970 --> 00:09:20,380
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>没什么</b></font>
+
+276
+00:09:18,970 --> 00:09:20,380
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>何でもありません</b></font>
+
+277
+00:09:20,380 --> 00:09:23,050
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我要保密到母亲生日那天哦</b></font>
+
+278
+00:09:20,380 --> 00:09:23,050
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お母様のお誕生日まで秘密ですわ</b></font>
+
+279
+00:09:24,080 --> 00:09:26,750
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>瑞穗  祥子  我回来了</b></font>
+
+280
+00:09:24,080 --> 00:09:26,750
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>瑞穂　祥子　ただいま</b></font>
+
+281
+00:09:26,750 --> 00:09:27,760
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>父亲</b></font>
+
+282
+00:09:26,750 --> 00:09:27,760
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様</b></font>
+
+283
+00:09:28,360 --> 00:09:29,350
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>欢迎回家</b></font>
+
+284
+00:09:28,360 --> 00:09:29,350
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お帰りなさい</b></font>
+
+285
+00:09:29,350 --> 00:09:31,020
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>工作怎么样了？</b></font>
+
+286
+00:09:29,350 --> 00:09:31,020
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お仕事どうだった？</b></font>
+
+287
+00:09:31,830 --> 00:09:33,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>今天也被岳父劈头盖脸骂了一顿啊</b></font>
+
+288
+00:09:31,830 --> 00:09:33,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>今日もお父さんにどやされたよ</b></font>
+
+289
+00:09:33,920 --> 00:09:35,420
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>「这样下去别说是公司了」</b></font>
+
+290
+00:09:33,920 --> 00:09:35,420
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>「これじゃあ会社どころか」</b></font>
+
+291
+00:09:35,420 --> 00:09:37,860
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>「重要的女儿也不能托付给你！」被这么说了</b></font>
+
+292
+00:09:35,420 --> 00:09:37,860
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>「大事な娘も預けられん！」って</b></font>
+
+293
+00:09:38,510 --> 00:09:41,520
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>父亲就是想栽培你所以才这么严格的</b></font>
+
+294
+00:09:38,510 --> 00:09:41,520
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>清告さんを育てたいから厳しくしてるの</b></font>
+
+295
+00:09:41,830 --> 00:09:45,770
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>没问题的  你的真诚就是优点哦</b></font>
+
+296
+00:09:41,830 --> 00:09:45,770
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>大丈夫　貴方の誠実さは美徳よ</b></font>
+
+297
+00:09:47,870 --> 00:09:51,150
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>离开得太早了啊  小瑞穗</b></font>
+
+298
+00:09:47,870 --> 00:09:51,150
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>瑞穂ちゃん　早すぎるわ</b></font>
+
+299
+00:09:51,150 --> 00:09:54,050
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>不过  留在世上的那边也不好受啊</b></font>
+
+300
+00:09:51,150 --> 00:09:54,050
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>でも　長くもった方だって</b></font>
+
+301
+00:10:11,150 --> 00:10:12,450
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>母亲…</b></font>
+
+302
+00:10:11,150 --> 00:10:12,450
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お母様…</b></font>
+
+303
+00:10:18,500 --> 00:10:19,570
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>祥子</b></font>
+
+304
+00:10:18,500 --> 00:10:19,570
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>祥子</b></font>
+
+305
+00:10:20,240 --> 00:10:22,620
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>爸爸  会努力的</b></font>
+
+306
+00:10:20,240 --> 00:10:22,620
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父さん　頑張るから</b></font>
+
+307
+00:10:25,510 --> 00:10:28,020
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>好  下午开始就是音乐节了</b></font>
+
+308
+00:10:25,510 --> 00:10:28,020
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>はい　午後からは音楽祭です</b></font>
+
+309
+00:10:28,020 --> 00:10:29,840
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>大家移动去礼堂吧</b></font>
+
+310
+00:10:28,020 --> 00:10:29,840
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>講堂に移動しましょう</b></font>
+
+311
+00:10:37,540 --> 00:10:39,990
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>阿祥  走吧</b></font>
+
+312
+00:10:37,540 --> 00:10:39,990
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>祥　移動</b></font>
+
+313
+00:10:41,950 --> 00:10:42,910
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>好</b></font>
+
+314
+00:10:41,950 --> 00:10:42,910
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ええ</b></font>
+
+315
+00:10:43,580 --> 00:10:49,430
+<font face="方正中粗雅宋_GBK" size="60">让我穿过碧空万里 去携手这满天星斗</font>
+
+316
+00:10:43,580 --> 00:10:49,430
+<font face="FOT-TsukuMin Pr6N E" size="60">青空突き抜け　星をたずさえて</font>
+
+317
+00:10:50,130 --> 00:10:53,470
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>谢谢大家  我们是 Morfonica！</b></font>
+
+318
+00:10:50,130 --> 00:10:53,470
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ありがとうございました　Morfonica でした！</b></font>
+
+319
+00:10:54,260 --> 00:10:55,730
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Morfonica？</b></font>
+
+320
+00:10:54,260 --> 00:10:55,730
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Morfonica？</b></font>
+
+321
+00:10:55,730 --> 00:10:58,470
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>她们是在月之森第一个组成了乐队的</b></font>
+
+322
+00:10:55,730 --> 00:10:58,470
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>月の森で　初めてバンド組んだ</b></font>
+
+323
+00:10:58,470 --> 00:11:00,120
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>高中部的学姐们</b></font>
+
+324
+00:10:58,470 --> 00:11:00,120
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>高等部の先輩</b></font>
+
+325
+00:11:00,120 --> 00:11:01,110
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>乐队…</b></font>
+
+326
+00:11:00,120 --> 00:11:01,110
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>バンド…</b></font>
+
+327
+00:11:01,970 --> 00:11:02,850
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>阿睦</b></font>
+
+328
+00:11:01,970 --> 00:11:02,850
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>睦</b></font>
+
+329
+00:11:02,850 --> 00:11:05,640
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我们也来组个乐队吧</b></font>
+
+330
+00:11:02,850 --> 00:11:05,640
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>わたくしたちも　バンドをいたしましょう</b></font>
+
+331
+00:11:05,640 --> 00:11:07,480
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>组乐队哦</b></font>
+
+332
+00:11:05,640 --> 00:11:07,480
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>バンド　ですわ</b></font>
+
+333
+00:11:09,230 --> 00:11:12,990
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>长崎素世同学是位和善的人  真是太好了</b></font>
+
+334
+00:11:09,230 --> 00:11:12,990
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>長崎そよさん　感じのよい方でよかったですわ</b></font>
+
+335
+00:11:12,990 --> 00:11:14,210
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>之后是…</b></font>
+
+336
+00:11:12,990 --> 00:11:14,210
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>後は…</b></font>
+
+337
+00:11:19,310 --> 00:11:20,700
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这可不行啊</b></font>
+
+338
+00:11:19,310 --> 00:11:20,700
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ダメですわ</b></font>
+
+339
+00:11:22,000 --> 00:11:23,760
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>不好意思撞倒了你</b></font>
+
+340
+00:11:22,000 --> 00:11:23,760
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>突き飛ばしたのはごめんなさい</b></font>
+
+341
+00:11:23,760 --> 00:11:25,330
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>但你可不能去寻死啊</b></font>
+
+342
+00:11:23,760 --> 00:11:25,330
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>でも死ぬのはダメですわ</b></font>
+
+343
+00:11:27,500 --> 00:11:29,420
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>从此以后  我们就要组成乐队</b></font>
+
+344
+00:11:27,500 --> 00:11:29,420
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>これから　わたくしたちはバンド</b></font>
+
+345
+00:11:29,850 --> 00:11:33,970
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>一同演奏音乐  成为命运共同体了</b></font>
+
+346
+00:11:29,850 --> 00:11:33,970
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>共に音楽を奏でる　運命共同体となるのです</b></font>
+
+347
+00:11:34,570 --> 00:11:36,840
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我第一次  试着写了歌词</b></font>
+
+348
+00:11:34,570 --> 00:11:36,840
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>初めて　歌詞書いた</b></font>
+
+349
+00:11:36,840 --> 00:11:38,210
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>之前写的那些不算吗？</b></font>
+
+350
+00:11:36,840 --> 00:11:38,210
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>今までのは？</b></font>
+
+351
+00:11:38,210 --> 00:11:39,120
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>呃…</b></font>
+
+352
+00:11:38,210 --> 00:11:39,120
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>えっと…</b></font>
+
+353
+00:11:39,120 --> 00:11:42,060
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我明白了  这首歌是…</b></font>
+
+354
+00:11:39,120 --> 00:11:42,060
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>分かりますわ　これは…</b></font>
+
+355
+00:11:43,670 --> 00:11:47,930
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>春日影  是属于我们的歌</b></font>
+
+356
+00:11:43,670 --> 00:11:47,930
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>春日影は　わたくしたちの歌ですわね</b></font>
+
+357
+00:12:03,200 --> 00:12:04,910
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>父亲呢？</b></font>
+
+358
+00:12:03,200 --> 00:12:04,910
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様は？</b></font>
+
+359
+00:12:04,910 --> 00:12:06,030
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>那家伙什么都不懂</b></font>
+
+360
+00:12:04,910 --> 00:12:06,030
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>何も分かってない</b></font>
+
+361
+00:12:06,030 --> 00:12:06,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我要拉黑他！</b></font>
+
+362
+00:12:06,030 --> 00:12:06,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ブッロクしてやる！</b></font>
+
+363
+00:12:06,920 --> 00:12:07,980
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>小立希</b></font>
+
+364
+00:12:06,920 --> 00:12:07,980
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>立希ちゃん</b></font>
+
+365
+00:12:07,980 --> 00:12:09,770
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>比起拉黑  不如屏蔽吧</b></font>
+
+366
+00:12:07,980 --> 00:12:09,770
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ブッロクより　ミュートね</b></font>
+
+367
+00:12:10,600 --> 00:12:13,420
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>不过  其他的人几乎都在夸我们</b></font>
+
+368
+00:12:10,600 --> 00:12:13,420
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>でも　ほかの人はほとんど褒めてるから</b></font>
+
+369
+00:12:10,920 --> 00:12:12,250
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=7}{\an4}<font size="35"><font color="#7a8391">我已经向前台知会过了</font></font></font>
+
+370
+00:12:10,920 --> 00:12:12,250
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=7}{\an4}<font size="35"><font color="#89868b">谢谢。虽然可能会很勉强，但应该赶得上</font></font></font>
+
+371
+00:12:10,920 --> 00:12:12,250
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=8}{\an4}<font size="35"><font color="#7a8391">父亲您来了吗？</font></font></font>
+
+372
+00:12:12,250 --> 00:12:12,300
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=7}{\an4}<font size="35"><font color="#7a8391">我已经向前台知会过了</font></font></font>
+
+373
+00:12:12,250 --> 00:12:12,300
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=7}{\an4}<font size="35"><font color="#89868b">谢谢。虽然可能会很勉强，但应该赶得上</font></font></font>
+
+374
+00:12:12,250 --> 00:12:12,300
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=8}{\an4}<font size="35"><font color="#7a8391">父亲您来了吗？</font></font></font>
+
+375
+00:12:12,300 --> 00:12:12,340
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=7}{\an4}<font size="35"><font color="#89868b">谢谢。虽然可能会很勉强，但应该赶得上</font></font></font>
+
+376
+00:12:12,300 --> 00:12:12,340
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=8}{\an4}<font size="35"><font color="#7a8391">父亲您来了吗？</font></font></font>
+
+377
+00:12:12,300 --> 00:12:12,340
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=8}{\an4}<font size="35"><font color="#89868b">已经不能再一起生活了</font></font></font>
+
+378
+00:12:12,340 --> 00:12:13,420
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=7}{\an4}<font size="35"><font color="#89868b">谢谢。虽然可能会很勉强，但应该赶得上</font></font></font>
+
+379
+00:12:12,340 --> 00:12:13,420
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=8}{\an4}<font size="35"><font color="#7a8391">父亲您来了吗？</font></font></font>
+
+380
+00:12:12,340 --> 00:12:13,420
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=8}{\an4}<font size="35"><font color="#89868b">已经不能再一起生活了</font></font></font>
+
+381
+00:12:13,420 --> 00:12:14,310
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>诶？</b></font>
+
+382
+00:12:13,420 --> 00:12:14,310
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>えっ？</b></font>
+
+383
+00:12:16,420 --> 00:12:16,460
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=14=15}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+384
+00:12:16,460 --> 00:12:16,500
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=14=15}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+385
+00:12:16,500 --> 00:12:16,540
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=14=15}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+386
+00:12:16,550 --> 00:12:16,590
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=17}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+387
+00:12:16,590 --> 00:12:16,630
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=18}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+388
+00:12:16,590 --> 00:12:16,630
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=19}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+389
+00:12:16,630 --> 00:12:16,670
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+390
+00:12:16,630 --> 00:12:16,670
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+391
+00:12:16,670 --> 00:12:16,710
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+392
+00:12:16,670 --> 00:12:16,710
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+393
+00:12:16,710 --> 00:12:16,750
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+394
+00:12:16,710 --> 00:12:16,750
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+395
+00:12:16,750 --> 00:12:16,790
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+396
+00:12:16,750 --> 00:12:16,790
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+397
+00:12:16,790 --> 00:12:16,840
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+398
+00:12:16,790 --> 00:12:16,840
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+399
+00:12:16,840 --> 00:12:16,880
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+400
+00:12:16,840 --> 00:12:16,880
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+401
+00:12:16,880 --> 00:12:16,920
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+402
+00:12:16,880 --> 00:12:16,920
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+403
+00:12:16,920 --> 00:12:16,960
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+404
+00:12:16,920 --> 00:12:16,960
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+405
+00:12:16,960 --> 00:12:17,000
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+406
+00:12:16,960 --> 00:12:17,000
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+407
+00:12:17,000 --> 00:12:17,050
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+408
+00:12:17,000 --> 00:12:17,050
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+409
+00:12:17,050 --> 00:12:17,090
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+410
+00:12:17,050 --> 00:12:17,090
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+411
+00:12:17,090 --> 00:12:17,130
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+412
+00:12:17,090 --> 00:12:17,130
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+413
+00:12:17,130 --> 00:12:17,170
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+414
+00:12:17,130 --> 00:12:17,170
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+415
+00:12:17,170 --> 00:12:17,210
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+416
+00:12:17,170 --> 00:12:17,210
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+417
+00:12:17,210 --> 00:12:17,250
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+418
+00:12:17,210 --> 00:12:17,250
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+419
+00:12:17,250 --> 00:12:17,300
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+420
+00:12:17,250 --> 00:12:17,300
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+421
+00:12:17,300 --> 00:12:17,340
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+422
+00:12:17,300 --> 00:12:17,340
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+423
+00:12:17,340 --> 00:12:17,380
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+424
+00:12:17,340 --> 00:12:17,380
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+425
+00:12:17,380 --> 00:12:17,420
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+426
+00:12:17,380 --> 00:12:17,420
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+427
+00:12:17,420 --> 00:12:17,460
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+428
+00:12:17,420 --> 00:12:17,460
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+429
+00:12:17,460 --> 00:12:17,500
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+430
+00:12:17,460 --> 00:12:17,500
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+431
+00:12:17,500 --> 00:12:17,550
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+432
+00:12:17,500 --> 00:12:17,550
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+433
+00:12:17,550 --> 00:12:17,590
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+434
+00:12:17,550 --> 00:12:17,590
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+435
+00:12:17,590 --> 00:12:17,630
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+436
+00:12:17,590 --> 00:12:17,630
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+437
+00:12:17,630 --> 00:12:17,670
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+438
+00:12:17,630 --> 00:12:17,670
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+439
+00:12:17,670 --> 00:12:17,710
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+440
+00:12:17,670 --> 00:12:17,710
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+441
+00:12:17,710 --> 00:12:17,750
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+442
+00:12:17,710 --> 00:12:17,750
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+443
+00:12:17,750 --> 00:12:17,800
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+444
+00:12:17,750 --> 00:12:17,800
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+445
+00:12:17,800 --> 00:12:17,840
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+446
+00:12:17,800 --> 00:12:17,840
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+447
+00:12:17,840 --> 00:12:17,880
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+448
+00:12:17,840 --> 00:12:17,880
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+449
+00:12:17,880 --> 00:12:17,920
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+450
+00:12:17,880 --> 00:12:17,920
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+451
+00:12:17,910 --> 00:12:19,550
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>小祥？</b></font>
+
+452
+00:12:17,910 --> 00:12:19,550
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>祥ちゃん？</b></font>
+
+453
+00:12:17,920 --> 00:12:17,960
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+454
+00:12:17,920 --> 00:12:17,960
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+455
+00:12:17,960 --> 00:12:18,000
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+456
+00:12:17,960 --> 00:12:18,000
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+457
+00:12:18,000 --> 00:12:18,050
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+458
+00:12:18,000 --> 00:12:18,050
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+459
+00:12:18,050 --> 00:12:18,090
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+460
+00:12:18,050 --> 00:12:18,090
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+461
+00:12:18,090 --> 00:12:18,130
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+462
+00:12:18,090 --> 00:12:18,130
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+463
+00:12:18,130 --> 00:12:18,170
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+464
+00:12:18,130 --> 00:12:18,170
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+465
+00:12:18,170 --> 00:12:18,210
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+466
+00:12:18,170 --> 00:12:18,210
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+467
+00:12:18,210 --> 00:12:18,250
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+468
+00:12:18,210 --> 00:12:18,250
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+469
+00:12:18,250 --> 00:12:18,300
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+470
+00:12:18,250 --> 00:12:18,300
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+471
+00:12:18,300 --> 00:12:18,340
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+472
+00:12:18,300 --> 00:12:18,340
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+473
+00:12:18,340 --> 00:12:18,380
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+474
+00:12:18,340 --> 00:12:18,380
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+475
+00:12:18,380 --> 00:12:18,420
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+476
+00:12:18,380 --> 00:12:18,420
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+477
+00:12:18,420 --> 00:12:18,460
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+478
+00:12:18,420 --> 00:12:18,460
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+479
+00:12:18,460 --> 00:12:18,500
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+480
+00:12:18,460 --> 00:12:18,500
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+481
+00:12:18,500 --> 00:12:18,550
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+482
+00:12:18,500 --> 00:12:18,550
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+483
+00:12:18,550 --> 00:12:18,590
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+484
+00:12:18,550 --> 00:12:18,590
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+485
+00:12:18,590 --> 00:12:18,630
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+486
+00:12:18,590 --> 00:12:18,630
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+487
+00:12:18,630 --> 00:12:18,670
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+488
+00:12:18,630 --> 00:12:18,670
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+489
+00:12:18,670 --> 00:12:18,710
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+490
+00:12:18,670 --> 00:12:18,710
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+491
+00:12:18,710 --> 00:12:18,760
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+492
+00:12:18,710 --> 00:12:18,760
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+493
+00:12:18,760 --> 00:12:18,800
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+494
+00:12:18,760 --> 00:12:18,800
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+495
+00:12:18,800 --> 00:12:18,840
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+496
+00:12:18,800 --> 00:12:18,840
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+497
+00:12:18,840 --> 00:12:18,880
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+498
+00:12:18,840 --> 00:12:18,880
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+499
+00:12:18,880 --> 00:12:18,920
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+500
+00:12:18,880 --> 00:12:18,920
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+501
+00:12:18,920 --> 00:12:18,960
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+502
+00:12:18,920 --> 00:12:18,960
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+503
+00:12:18,960 --> 00:12:19,010
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+504
+00:12:18,960 --> 00:12:19,010
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+505
+00:12:19,010 --> 00:12:19,050
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+506
+00:12:19,010 --> 00:12:19,050
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+507
+00:12:19,050 --> 00:12:19,090
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+508
+00:12:19,050 --> 00:12:19,090
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+509
+00:12:19,090 --> 00:12:19,130
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+510
+00:12:19,090 --> 00:12:19,130
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+511
+00:12:19,130 --> 00:12:19,170
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+512
+00:12:19,130 --> 00:12:19,170
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+513
+00:12:19,170 --> 00:12:19,210
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+514
+00:12:19,170 --> 00:12:19,210
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+515
+00:12:19,210 --> 00:12:19,260
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+516
+00:12:19,210 --> 00:12:19,260
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+517
+00:12:19,260 --> 00:12:19,300
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+518
+00:12:19,260 --> 00:12:19,300
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+519
+00:12:19,300 --> 00:12:19,340
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+520
+00:12:19,300 --> 00:12:19,340
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+521
+00:12:19,340 --> 00:12:19,380
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+522
+00:12:19,340 --> 00:12:19,380
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+523
+00:12:19,380 --> 00:12:19,420
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+524
+00:12:19,380 --> 00:12:19,420
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+525
+00:12:19,420 --> 00:12:19,460
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+526
+00:12:19,420 --> 00:12:19,460
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+527
+00:12:19,460 --> 00:12:19,510
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+528
+00:12:19,460 --> 00:12:19,510
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+529
+00:12:19,510 --> 00:12:19,550
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=20}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">已经不能再一起生活了</font></font></b></font></font>
+
+530
+00:12:19,510 --> 00:12:19,550
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=15=21}{\an4}<font face="Source Han Sans SC"><b><font size="55"><font color="#897d88">祥子你要幸福起来啊</font></font></b></font></font>
+
+531
+00:12:23,730 --> 00:12:25,180
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>外祖父</b></font>
+
+532
+00:12:23,730 --> 00:12:25,180
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お祖父様</b></font>
+
+533
+00:12:25,180 --> 00:12:26,580
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>父亲现在的位置</b></font>
+
+534
+00:12:25,180 --> 00:12:26,580
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様はどこ</b></font>
+
+535
+00:12:26,580 --> 00:12:27,810
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>您是知道的对吧？</b></font>
+
+536
+00:12:26,580 --> 00:12:27,810
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>知っているのでしょう？</b></font>
+
+537
+00:12:28,070 --> 00:12:30,900
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>那个人已经  不是丰川家的人了</b></font>
+
+538
+00:12:28,070 --> 00:12:30,900
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>アレはもう　豊川の人間ではない</b></font>
+
+539
+00:12:30,900 --> 00:12:34,070
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>他使我们家公司遭到诈骗  引咎辞职了</b></font>
+
+540
+00:12:30,900 --> 00:12:34,070
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>詐欺に遭った責任をとって　辞めた</b></font>
+
+541
+00:12:34,380 --> 00:12:35,820
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>诈骗？</b></font>
+
+542
+00:12:34,380 --> 00:12:35,820
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>詐欺？</b></font>
+
+543
+00:12:35,820 --> 00:12:38,200
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我们损失了 168 亿</b></font>
+
+544
+00:12:35,820 --> 00:12:38,200
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>168 億の損失だ</b></font>
+
+545
+00:12:39,400 --> 00:12:40,700
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>怎么会…</b></font>
+
+546
+00:12:39,400 --> 00:12:40,700
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>そんな…</b></font>
+
+547
+00:12:40,700 --> 00:12:42,450
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>他的运气太差了</b></font>
+
+548
+00:12:40,700 --> 00:12:42,450
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>運が悪かった</b></font>
+
+549
+00:12:42,450 --> 00:12:43,910
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>运气？</b></font>
+
+550
+00:12:42,450 --> 00:12:43,910
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>運？</b></font>
+
+551
+00:12:43,910 --> 00:12:45,810
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>忘掉你爸爸的事情</b></font>
+
+552
+00:12:43,910 --> 00:12:45,810
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>父のことは忘れて</b></font>
+
+553
+00:12:45,810 --> 00:12:48,030
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>来做我的女儿吧</b></font>
+
+554
+00:12:45,810 --> 00:12:48,030
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>私の娘になりなさい</b></font>
+
+555
+00:12:48,030 --> 00:12:49,930
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你是瑞穗留在世上的骨肉</b></font>
+
+556
+00:12:48,030 --> 00:12:49,930
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>瑞穂の忘れ形だ</b></font>
+
+557
+00:12:49,930 --> 00:12:51,290
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我不想让你操劳</b></font>
+
+558
+00:12:49,930 --> 00:12:51,290
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>苦労させたくない</b></font>
+
+559
+00:12:54,720 --> 00:12:55,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>祥子！</b></font>
+
+560
+00:12:54,720 --> 00:12:55,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>祥子！</b></font>
+
+561
+00:12:56,170 --> 00:12:59,550
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>像你这样的深闺千金  跑出去是打算怎么过活</b></font>
+
+562
+00:12:56,170 --> 00:12:59,550
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お前のような箱入りが　どう生きていくつもりだ</b></font>
+
+563
+00:12:59,880 --> 00:13:01,370
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这是母亲的</b></font>
+
+564
+00:12:59,880 --> 00:13:01,370
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お母様の</b></font>
+
+565
+00:13:01,370 --> 00:13:02,700
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>至少要把这个…</b></font>
+
+566
+00:13:01,370 --> 00:13:02,700
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>これだけは…</b></font>
+
+567
+00:13:07,750 --> 00:13:09,010
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>永别了</b></font>
+
+568
+00:13:07,750 --> 00:13:09,010
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>さよなら</b></font>
+
+569
+00:13:15,110 --> 00:13:17,740
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>是在… 这里吗？</b></font>
+
+570
+00:13:15,110 --> 00:13:17,740
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ここ… ですの？</b></font>
+
+571
+00:13:21,720 --> 00:13:23,060
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>父亲？</b></font>
+
+572
+00:13:21,720 --> 00:13:23,060
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様？</b></font>
+
+573
+00:13:29,530 --> 00:13:30,570
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>父亲</b></font>
+
+574
+00:13:29,530 --> 00:13:30,570
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様</b></font>
+
+575
+00:13:30,570 --> 00:13:32,170
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>父亲  振作点！</b></font>
+
+576
+00:13:30,570 --> 00:13:32,170
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様　しっかり！</b></font>
+
+577
+00:13:51,910 --> 00:13:53,400
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>初中生？</b></font>
+
+578
+00:13:51,910 --> 00:13:53,400
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>中学生？</b></font>
+
+579
+00:13:53,890 --> 00:13:55,270
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>是的…</b></font>
+
+580
+00:13:53,890 --> 00:13:55,270
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>はい…</b></font>
+
+581
+00:13:55,270 --> 00:13:57,400
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>初中生可不行啊…</b></font>
+
+582
+00:13:55,270 --> 00:13:57,400
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>中学生はダメよお…</b></font>
+
+583
+00:13:57,400 --> 00:13:59,530
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>哪里都不愿意雇你吧？</b></font>
+
+584
+00:13:57,400 --> 00:13:59,530
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>何処も雇ってくれないでしょう？</b></font>
+
+585
+00:13:59,920 --> 00:14:04,160
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>是的  我只接到了送报员的工作</b></font>
+
+586
+00:13:59,920 --> 00:14:04,160
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>はい　新聞の配達のお仕事しか</b></font>
+
+587
+00:14:04,160 --> 00:14:05,530
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你的双亲呢？</b></font>
+
+588
+00:14:04,160 --> 00:14:05,530
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>親御さんは？</b></font>
+
+589
+00:14:06,880 --> 00:14:08,290
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这个…</b></font>
+
+590
+00:14:06,880 --> 00:14:08,290
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>それは…</b></font>
+
+591
+00:14:08,290 --> 00:14:11,040
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=26}{\an4}<font face="Source Han Sans SC Heavy"><font size="38"><font color="#632a00">无需工作经验专刊</font></font></font></font>
+
+592
+00:14:08,290 --> 00:14:11,040
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>有隐情的话  真是可怜呢</b></font>
+
+593
+00:14:08,290 --> 00:14:11,040
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>わけありは　ちょっとねぇ</b></font>
+
+594
+00:14:14,160 --> 00:14:16,700
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这点就是杯水车薪啊</b></font>
+
+595
+00:14:14,160 --> 00:14:16,700
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>雀の涙ですわ</b></font>
+
+596
+00:14:16,700 --> 00:14:18,170
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这样下去…</b></font>
+
+597
+00:14:16,700 --> 00:14:18,170
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>これでは…</b></font>
+
+598
+00:14:20,110 --> 00:14:22,160
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>真的要… 退学吗？</b></font>
+
+599
+00:14:20,110 --> 00:14:22,160
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>本当に… 辞めちゃうの？</b></font>
+
+600
+00:14:22,160 --> 00:14:23,800
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>阿睦知道吗？</b></font>
+
+601
+00:14:22,160 --> 00:14:23,800
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>睦はご存知？</b></font>
+
+602
+00:14:23,800 --> 00:14:26,680
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>月之森的学费  可是很高的哦</b></font>
+
+603
+00:14:23,800 --> 00:14:26,680
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>月ノ森の学費って　すごく高いんですのよ</b></font>
+
+604
+00:14:27,040 --> 00:14:28,430
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>CRYCHIC 怎么办？</b></font>
+
+605
+00:14:27,040 --> 00:14:28,430
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>クライシックは？</b></font>
+
+606
+00:14:31,440 --> 00:14:33,860
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我会想办法抽空过去的</b></font>
+
+607
+00:14:31,440 --> 00:14:33,860
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>なんとか　時間を作りますから</b></font>
+
+608
+00:14:33,860 --> 00:14:35,940
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>暂时先别和任何人说</b></font>
+
+609
+00:14:33,860 --> 00:14:35,940
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>まだ誰にも言わないで</b></font>
+
+610
+00:14:37,400 --> 00:14:39,440
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>应该还来得及吧</b></font>
+
+611
+00:14:37,400 --> 00:14:39,440
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>まだ間に合いますわね</b></font>
+
+612
+00:14:39,810 --> 00:14:39,850
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=34=38}<font face="Source Han Sans SC Heavy"><font size="50"><font color="#7d7f81">素世</font></font></font></font>
+
+613
+00:14:39,810 --> 00:14:39,850
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=36=37}<font size="50"><font color="#7d7f81">今天能来吗？</font></font></font>
+
+614
+00:14:39,850 --> 00:14:39,900
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=34=38}<font face="Source Han Sans SC Heavy"><font size="50"><font color="#7d7f81">素世</font></font></font></font>
+
+615
+00:14:39,850 --> 00:14:39,900
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=36=37}<font size="50"><font color="#7d7f81">今天能来吗？</font></font></font>
+
+616
+00:14:39,900 --> 00:14:41,190
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=34=38}<font face="Source Han Sans SC Heavy"><font size="50"><font color="#7d7f81">素世</font></font></font></font>
+
+617
+00:14:39,900 --> 00:14:41,190
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=36=37}<font size="50"><font color="#7d7f81">今天能来吗？</font></font></font>
+
+618
+00:14:41,190 --> 00:14:42,590
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>素世！</b></font>
+
+619
+00:14:41,190 --> 00:14:42,590
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>そよ！</b></font>
+
+620
+00:14:43,820 --> 00:14:45,280
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=42}<font color="#398c82"><font size="40">非常抱歉，今天似乎也来不了</font></font></font>
+
+621
+00:14:43,820 --> 00:14:45,280
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=42}<font color="#8b918b"><font size="40">没事吧？大家都很担心你哦？</font></font></font>
+
+622
+00:14:43,820 --> 00:14:45,280
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=42}<font color="#398c82"><font size="40">请转达给大家不必担心</font></font></font>
+
+623
+00:14:43,820 --> 00:14:45,280
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=43}<font color="#8b918b"><font size="40">今天能来吗？</font></font></font>
+
+624
+00:14:43,820 --> 00:14:45,280
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{=45}<font color="#8b918b"><font size="40">至今为止实在是不好意思。今天能来哦</font></font></font>
+
+625
+00:14:50,710 --> 00:14:51,700
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>您好</b></font>
+
+626
+00:14:50,710 --> 00:14:51,700
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>はい</b></font>
+
+627
+00:14:52,530 --> 00:14:53,710
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>诶？</b></font>
+
+628
+00:14:52,530 --> 00:14:53,710
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>えっ？</b></font>
+
+629
+00:14:58,130 --> 00:15:00,110
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>为什么要酗酒呢？</b></font>
+
+630
+00:14:58,130 --> 00:15:00,110
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>どうして　お酒なんか</b></font>
+
+631
+00:15:00,110 --> 00:15:01,660
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>祥子</b></font>
+
+632
+00:15:00,110 --> 00:15:01,660
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>祥子</b></font>
+
+633
+00:15:01,660 --> 00:15:04,050
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>爸爸  会努力的…</b></font>
+
+634
+00:15:01,660 --> 00:15:04,050
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父さん　頑張るから…</b></font>
+
+635
+00:15:05,170 --> 00:15:06,540
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>父亲…</b></font>
+
+636
+00:15:05,170 --> 00:15:06,540
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様…</b></font>
+
+637
+00:15:30,270 --> 00:15:33,620
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>请容许我  退出 CRYCHIC</b></font>
+
+638
+00:15:30,270 --> 00:15:33,620
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>クライシックを　辞めさせていただきますわ</b></font>
+
+639
+00:15:38,170 --> 00:15:40,710
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这之前的演出  不是挺开心的吗</b></font>
+
+640
+00:15:38,170 --> 00:15:40,710
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>この前のライブ　楽しかったじゃない</b></font>
+
+641
+00:15:40,710 --> 00:15:43,010
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你说过「还想接着办下去」的吧？</b></font>
+
+642
+00:15:40,710 --> 00:15:43,010
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>「またやりたい」って　話してたよね？</b></font>
+
+643
+00:15:46,300 --> 00:15:48,220
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>灯就是在等你啊！</b></font>
+
+644
+00:15:46,300 --> 00:15:48,220
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>灯はお前を待ってたんだよ！</b></font>
+
+645
+00:15:51,640 --> 00:15:54,730
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>真的要… 结束掉吗？</b></font>
+
+646
+00:15:51,640 --> 00:15:54,730
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>本当に… やめちゃうの？</b></font>
+
+647
+00:16:07,440 --> 00:16:09,240
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你在收集便签吗？</b></font>
+
+648
+00:16:07,440 --> 00:16:09,240
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>付箋集めてるの？</b></font>
+
+649
+00:16:09,240 --> 00:16:11,490
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>因为它能用来排列话语</b></font>
+
+650
+00:16:09,240 --> 00:16:11,490
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>言葉を並べるから</b></font>
+
+651
+00:16:13,240 --> 00:16:16,120
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我家里也有没用过的  你要吗？</b></font>
+
+652
+00:16:13,240 --> 00:16:16,120
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>うちにも使ってないものあるけど　いる？</b></font>
+
+653
+00:16:18,290 --> 00:16:20,080
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>抽到票了！</b></font>
+
+654
+00:16:18,290 --> 00:16:20,080
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ご用意された</b></font>
+
+655
+00:16:20,080 --> 00:16:21,170
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>奇迹！</b></font>
+
+656
+00:16:20,080 --> 00:16:21,170
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>奇跡</b></font>
+
+657
+00:16:21,170 --> 00:16:23,170
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{\an9}<font color="#ffffff">m 0 0 l 100 0 l 100 100 l 0 100</font></font>
+
+658
+00:16:21,170 --> 00:16:23,170
+<font face="Source Han Sans SC Medium" size="80" color="#f0f0f0">{\an7}<font size="45"><font color="#606267">经过公正的抽选，我们为您准备了门票。
+
+<font size="38">■ 姓名拼写：CHIHAYA ANON
+■ 申请编号：493762830
+
+【中选内容】
+
+■ 活动名：Ave Mujica  武道馆演唱会  Nostri Noctis
+
+　 会场：日本武道馆（东京都千代田区）
+
+关于门票的支付和交易等指南，请参阅以下内容</font></font></font></font>
+
+659
+00:16:21,920 --> 00:16:22,880
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>什么啊</b></font>
+
+660
+00:16:21,920 --> 00:16:22,880
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>なに？</b></font>
+
+661
+00:16:22,880 --> 00:16:25,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Ave Mujica 的武道馆假面舞会门票啊！</b></font>
+
+662
+00:16:22,880 --> 00:16:25,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Ave Mujica のマスカレードのチケットだよ</b></font>
+
+663
+00:16:25,920 --> 00:16:29,380
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>倍率高的离谱  我还以为抽不到了</b></font>
+
+664
+00:16:25,920 --> 00:16:29,380
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>めちゃくちゃ倍率高くてマジ無理かと思った</b></font>
+
+665
+00:16:29,380 --> 00:16:31,050
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>是吗  太好了呢</b></font>
+
+666
+00:16:29,380 --> 00:16:31,050
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>へー　よかったね</b></font>
+
+667
+00:16:31,050 --> 00:16:33,610
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Amoris 绝对就是喵姆亲</b></font>
+
+668
+00:16:31,050 --> 00:16:33,610
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>絶対アモーリスはにゃむちだって</b></font>
+
+669
+00:16:33,610 --> 00:16:35,560
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>喵姆亲指的是那个喵姆亲？</b></font>
+
+670
+00:16:33,610 --> 00:16:35,560
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>にゃむちでなのにゃむち？</b></font>
+
+671
+00:16:35,560 --> 00:16:36,810
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>声音就是喵姆亲的声音</b></font>
+
+672
+00:16:35,560 --> 00:16:36,810
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>声にゃむちだし</b></font>
+
+673
+00:16:36,810 --> 00:16:38,880
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>她之前的视频还暗示过</b></font>
+
+674
+00:16:36,810 --> 00:16:38,880
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>この前の動画で匂わせあったし</b></font>
+
+675
+00:16:38,880 --> 00:16:40,170
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>有这回事吗？</b></font>
+
+676
+00:16:38,880 --> 00:16:40,170
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>そんなのあった？</b></font>
+
+677
+00:16:40,170 --> 00:16:41,990
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你去看了就知道了</b></font>
+
+678
+00:16:40,170 --> 00:16:41,990
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>見てたらわかるって</b></font>
+
+679
+00:16:41,990 --> 00:16:43,950
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>一起去嘛  灯灯</b></font>
+
+680
+00:16:41,990 --> 00:16:43,950
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ねえねえ　行こうよともりん</b></font>
+
+681
+00:16:43,950 --> 00:16:46,570
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Ave Mujica 的武道馆假面舞会  门票有两张</b></font>
+
+682
+00:16:43,950 --> 00:16:46,570
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Ave Mujica のマスカレード　二枚あるから</b></font>
+
+683
+00:16:46,570 --> 00:16:49,680
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>小灯是不是不喜欢人很多的地方</b></font>
+
+684
+00:16:46,570 --> 00:16:49,680
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>灯ちゃん　人が多いところ苦手じゃない？</b></font>
+
+685
+00:16:50,850 --> 00:16:53,810
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>说不定哪天 MyGO 也会去人很多的地方开演唱会哦</b></font>
+
+686
+00:16:50,850 --> 00:16:53,810
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>いつか　MyGO!!!!!も大きいとこでライブするかもだよ？</b></font>
+
+687
+00:16:53,810 --> 00:16:55,910
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你最好现在就开始习惯一下</b></font>
+
+688
+00:16:53,810 --> 00:16:55,910
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>今から慣れといた方がいいって</b></font>
+
+689
+00:16:55,910 --> 00:16:56,700
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>碍事</b></font>
+
+690
+00:16:55,910 --> 00:16:56,700
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>邪魔</b></font>
+
+691
+00:16:57,490 --> 00:16:59,080
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>声音太大了</b></font>
+
+692
+00:16:57,490 --> 00:16:59,080
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>声でかいだけど</b></font>
+
+693
+00:16:59,080 --> 00:17:00,250
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Rikki 去吗</b></font>
+
+694
+00:16:59,080 --> 00:17:00,250
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>りっきいく？</b></font>
+
+695
+00:17:00,250 --> 00:17:01,900
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>谢… 谢谢</b></font>
+
+696
+00:17:00,250 --> 00:17:01,900
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>あ… ありがとう</b></font>
+
+697
+00:17:01,900 --> 00:17:02,550
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>没兴趣</b></font>
+
+698
+00:17:01,900 --> 00:17:02,550
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>興味ない</b></font>
+
+699
+00:17:02,550 --> 00:17:03,960
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>那可是 Ave Mujica</b></font>
+
+700
+00:17:02,550 --> 00:17:03,960
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Ave Mujica だよ</b></font>
+
+701
+00:17:03,960 --> 00:17:04,680
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>那又怎样？</b></font>
+
+702
+00:17:03,960 --> 00:17:04,680
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>だから？</b></font>
+
+703
+00:17:04,680 --> 00:17:07,430
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>她们可是现在最受瞩目的乐队哦？</b></font>
+
+704
+00:17:04,680 --> 00:17:07,430
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>いま　一番注目されるバンドだよ？</b></font>
+
+705
+00:17:07,430 --> 00:17:08,340
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>看吧</b></font>
+
+706
+00:17:07,430 --> 00:17:08,340
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ほら</b></font>
+
+707
+00:17:08,340 --> 00:17:10,040
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>一旦沾染上人类的气息</b></font>
+
+708
+00:17:08,340 --> 00:17:10,040
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>人間の匂いがついたら</b></font>
+
+709
+00:17:10,040 --> 00:17:11,260
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>就没人会碰你这脆弱的双手了</b></font>
+
+710
+00:17:10,040 --> 00:17:11,260
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>もろい手が付きませんよ</b></font>
+
+711
+00:17:11,260 --> 00:17:13,350
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>哎呀  真伤脑筋</b></font>
+
+712
+00:17:11,260 --> 00:17:13,350
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>やだ　困る</b></font>
+
+713
+00:17:13,630 --> 00:17:14,520
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>还要演戏？</b></font>
+
+714
+00:17:13,630 --> 00:17:14,520
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>劇？</b></font>
+
+715
+00:17:14,520 --> 00:17:16,820
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>听说演唱会中间会插入小剧场</b></font>
+
+716
+00:17:14,520 --> 00:17:16,820
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ライブの間に寸劇やるんだって</b></font>
+
+717
+00:17:16,820 --> 00:17:18,440
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>世界观就是这样的</b></font>
+
+718
+00:17:16,820 --> 00:17:18,440
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>こういう世界なんだよ</b></font>
+
+719
+00:17:18,440 --> 00:17:19,980
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这根本就不是乐队</b></font>
+
+720
+00:17:18,440 --> 00:17:19,980
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>こんなのバンドじゃない</b></font>
+
+721
+00:17:19,980 --> 00:17:21,730
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这就是乐队</b></font>
+
+722
+00:17:19,980 --> 00:17:21,730
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>バンドです</b></font>
+
+723
+00:17:21,730 --> 00:17:25,170
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>嗯… 这张票怎么办呢？</b></font>
+
+724
+00:17:21,730 --> 00:17:25,170
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ええ　一枚どうしよう</b></font>
+
+725
+00:17:27,270 --> 00:17:28,740
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>怎么了？</b></font>
+
+726
+00:17:27,270 --> 00:17:28,740
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>何</b></font>
+
+727
+00:17:32,580 --> 00:17:33,840
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我出发了</b></font>
+
+728
+00:17:32,580 --> 00:17:33,840
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>行って参ります</b></font>
+
+729
+00:17:35,090 --> 00:17:36,190
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>爸爸？</b></font>
+
+730
+00:17:35,090 --> 00:17:36,190
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様？</b></font>
+
+731
+00:17:36,190 --> 00:17:38,000
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>是武道馆的演出吧？</b></font>
+
+732
+00:17:36,190 --> 00:17:38,000
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>武道館なんだろう</b></font>
+
+733
+00:17:39,720 --> 00:17:41,880
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>嗯  您知道啊</b></font>
+
+734
+00:17:39,720 --> 00:17:41,880
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ええ　ご存知でしたのね</b></font>
+
+735
+00:17:41,880 --> 00:17:44,300
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>祥子真厉害</b></font>
+
+736
+00:17:41,880 --> 00:17:44,300
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>すごいな　祥子は</b></font>
+
+737
+00:17:44,950 --> 00:17:47,630
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>一个人不断地向前迈进</b></font>
+
+738
+00:17:44,950 --> 00:17:47,630
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>一人でどんどん前に進んで</b></font>
+
+739
+00:17:47,630 --> 00:17:49,330
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>爸爸？</b></font>
+
+740
+00:17:47,630 --> 00:17:49,330
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様？</b></font>
+
+741
+00:17:49,330 --> 00:17:52,670
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我… 我再也努力不下去了</b></font>
+
+742
+00:17:49,330 --> 00:17:52,670
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>俺はもう　頑張れない</b></font>
+
+743
+00:17:53,460 --> 00:17:55,110
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>看到现在的爸爸</b></font>
+
+744
+00:17:53,460 --> 00:17:55,110
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>今のお父様を見たら</b></font>
+
+745
+00:17:55,110 --> 00:17:57,070
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>妈妈也会伤心的</b></font>
+
+746
+00:17:55,110 --> 00:17:57,070
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お母様も悲しみます</b></font>
+
+747
+00:17:57,070 --> 00:17:58,770
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>妈妈曾经说过</b></font>
+
+748
+00:17:57,070 --> 00:17:58,770
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お母様言っておりましたわ</b></font>
+
+749
+00:17:58,770 --> 00:17:59,980
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>爸爸的美德是…</b></font>
+
+750
+00:17:58,770 --> 00:17:59,980
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お父様の美徳は…</b></font>
+
+751
+00:17:59,980 --> 00:18:00,890
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>吵死了</b></font>
+
+752
+00:17:59,980 --> 00:18:00,890
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>うるさい</b></font>
+
+753
+00:18:05,940 --> 00:18:09,530
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>别管我了</b></font>
+
+754
+00:18:05,940 --> 00:18:09,530
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>もう　ほっといてくれ</b></font>
+
+755
+00:18:09,790 --> 00:18:13,270
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>有你这么优秀的女儿  我…</b></font>
+
+756
+00:18:09,790 --> 00:18:13,270
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お前みたいな立派な娘がいると俺は</b></font>
+
+757
+00:18:13,270 --> 00:18:14,530
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我真是没用</b></font>
+
+758
+00:18:13,270 --> 00:18:14,530
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>情けない</b></font>
+
+759
+00:18:15,150 --> 00:18:16,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>算我求你了</b></font>
+
+760
+00:18:15,150 --> 00:18:16,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>頼むから</b></font>
+
+761
+00:18:16,920 --> 00:18:18,660
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>别呆在这里了！</b></font>
+
+762
+00:18:16,920 --> 00:18:18,660
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>いなくなってくれ</b></font>
+
+763
+00:18:25,260 --> 00:18:26,000
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>小祥</b></font>
+
+764
+00:18:25,260 --> 00:18:26,000
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>さき</b></font>
+
+765
+00:18:26,390 --> 00:18:27,500
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我们走</b></font>
+
+766
+00:18:26,390 --> 00:18:27,500
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>行きますわよ</b></font>
+
+767
+00:18:28,630 --> 00:18:30,160
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>可恶的老爸！</b></font>
+
+768
+00:18:28,630 --> 00:18:30,160
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>くそおやじ</b></font>
+
+769
+00:18:30,160 --> 00:18:32,090
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>知不知道我这一路是什么心情走下来的</b></font>
+
+770
+00:18:30,160 --> 00:18:32,090
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>今まで私がどんな気持ちで</b></font>
+
+771
+00:18:32,090 --> 00:18:33,260
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>小祥</b></font>
+
+772
+00:18:32,090 --> 00:18:33,260
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>さき</b></font>
+
+773
+00:18:33,260 --> 00:18:35,460
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我再也不会回去了</b></font>
+
+774
+00:18:33,260 --> 00:18:35,460
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>あそこにはもう戻りません</b></font>
+
+775
+00:18:35,970 --> 00:18:37,350
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>回不去了…</b></font>
+
+776
+00:18:35,970 --> 00:18:37,350
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>戻れない</b></font>
+
+777
+00:18:37,790 --> 00:18:39,090
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>小祥</b></font>
+
+778
+00:18:37,790 --> 00:18:39,090
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>さき</b></font>
+
+779
+00:18:39,090 --> 00:18:41,330
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>武道馆… 不要紧吗</b></font>
+
+780
+00:18:39,090 --> 00:18:41,330
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>武道館　大丈夫</b></font>
+
+781
+00:18:43,320 --> 00:18:45,230
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>那肯定不要紧啊</b></font>
+
+782
+00:18:43,320 --> 00:18:45,230
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>大丈夫に決まっているでしょう</b></font>
+
+783
+00:18:47,880 --> 00:18:50,110
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你以为我是为了什么才努力到现在的？</b></font>
+
+784
+00:18:47,880 --> 00:18:50,110
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>何のために頑張ってきたと思うの</b></font>
+
+785
+00:18:51,870 --> 00:18:55,280
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>断绝留恋  忘却一切</b></font>
+
+786
+00:18:51,870 --> 00:18:55,280
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>未練を断ち切り　全てを忘れる</b></font>
+
+787
+00:18:55,930 --> 00:18:59,550
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我现在只有 Ave Mujica 了</b></font>
+
+788
+00:18:55,930 --> 00:18:59,550
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>わたくしにはもう　Ave Mujica しか　ない</b></font>
+
+789
+00:19:07,310 --> 00:19:09,890
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Amoris  面具</b></font>
+
+790
+00:19:07,310 --> 00:19:09,890
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Amoris　仮面を</b></font>
+
+791
+00:19:09,890 --> 00:19:11,340
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>好～</b></font>
+
+792
+00:19:09,890 --> 00:19:11,340
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>はーい</b></font>
+
+793
+00:19:15,640 --> 00:19:17,010
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Doloris</b></font>
+
+794
+00:19:15,640 --> 00:19:17,010
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Doloris</b></font>
+
+795
+00:19:17,010 --> 00:19:19,950
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我  无惧悲伤</b></font>
+
+796
+00:19:17,010 --> 00:19:19,950
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>我　悲しみを恐れるなかれ</b></font>
+
+797
+00:19:22,070 --> 00:19:25,270
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>好好看着  这完美的笑容</b></font>
+
+798
+00:19:22,070 --> 00:19:25,270
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>よくご覧になって　この完璧な笑顔</b></font>
+
+799
+00:19:24,070 --> 00:19:25,270
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>{\an8}Mortis</b></font>
+
+800
+00:19:24,070 --> 00:19:25,270
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>{\an8}Mortis</b></font>
+
+801
+00:19:25,270 --> 00:19:27,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>{\an8}我  无惧恐惧</b></font>
+
+802
+00:19:25,270 --> 00:19:28,810
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>如果你不喜欢笑容  我哭给你看也可以哦</b></font>
+
+803
+00:19:25,270 --> 00:19:27,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>{\an8}我　死を恐れるなかれ</b></font>
+
+804
+00:19:25,270 --> 00:19:28,810
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>笑顔が嫌いなら　泣いてあげたっていいんだよ</b></font>
+
+805
+00:19:28,810 --> 00:19:31,530
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>因为我什么表情都做得出来</b></font>
+
+806
+00:19:28,810 --> 00:19:31,530
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>あたしがどんな顔でも出来るから</b></font>
+
+807
+00:19:33,030 --> 00:19:34,450
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>{\an8}Timoris</b></font>
+
+808
+00:19:33,030 --> 00:19:34,900
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>无聊的剧本</b></font>
+
+809
+00:19:33,030 --> 00:19:34,450
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>{\an8}Timoris</b></font>
+
+810
+00:19:33,030 --> 00:19:34,900
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>退屈な台本</b></font>
+
+811
+00:19:34,450 --> 00:19:37,540
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>{\an8}我  无惧恐惧</b></font>
+
+812
+00:19:34,450 --> 00:19:37,540
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>{\an8}我　恐れることを恐れるなかれ</b></font>
+
+813
+00:19:35,600 --> 00:19:37,540
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我走了</b></font>
+
+814
+00:19:35,600 --> 00:19:37,540
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>行ってきまーす</b></font>
+
+815
+00:19:41,540 --> 00:19:43,040
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Amoris</b></font>
+
+816
+00:19:41,540 --> 00:19:43,040
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Amoris</b></font>
+
+817
+00:19:43,040 --> 00:19:45,680
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我  无惧被爱</b></font>
+
+818
+00:19:43,040 --> 00:19:45,680
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>我　愛を恐れるなかれ</b></font>
+
+819
+00:19:50,480 --> 00:19:52,210
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Oblivionis</b></font>
+
+820
+00:19:50,480 --> 00:19:52,210
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Oblivionis</b></font>
+
+821
+00:19:52,210 --> 00:19:54,930
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>我  无惧遗忘</b></font>
+
+822
+00:19:52,210 --> 00:19:54,930
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>我　忘却を恐れるなかれ</b></font>
+
+823
+00:19:56,450 --> 00:20:00,060
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>好  差不多该有客人来了</b></font>
+
+824
+00:19:56,450 --> 00:20:00,060
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>さあ　そろそろお客様がいらっしゃいますわ</b></font>
+
+825
+00:20:01,220 --> 00:20:02,540
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>谁会来呢？</b></font>
+
+826
+00:20:01,220 --> 00:20:02,540
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>誰が来るの？</b></font>
+
+827
+00:20:02,540 --> 00:20:04,600
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Doloris  看着前面</b></font>
+
+828
+00:20:02,540 --> 00:20:04,600
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ドロリス　前を向いて</b></font>
+
+829
+00:20:04,600 --> 00:20:05,870
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>是朋友吗？</b></font>
+
+830
+00:20:04,600 --> 00:20:05,870
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お友達</b></font>
+
+831
+00:20:05,870 --> 00:20:08,610
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Mortis  头发乱了</b></font>
+
+832
+00:20:05,870 --> 00:20:08,610
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Mortis　髪が乱れているわ</b></font>
+
+833
+00:20:08,610 --> 00:20:11,610
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>是即将成为我们新主人的人们</b></font>
+
+834
+00:20:08,610 --> 00:20:11,610
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>新しい持ち主になる方々です</b></font>
+
+835
+00:20:11,610 --> 00:20:13,990
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Timoris  整理一下衣领</b></font>
+
+836
+00:20:11,610 --> 00:20:13,990
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Timoris　襟元は真っ直ぐ</b></font>
+
+837
+00:20:13,990 --> 00:20:17,080
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>今天一定要让他们注视着我</b></font>
+
+838
+00:20:13,990 --> 00:20:17,080
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>今日こそ　あたしを見つめてもらうんだ</b></font>
+
+839
+00:20:17,080 --> 00:20:19,710
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Amoris  你需要的是</b></font>
+
+840
+00:20:17,080 --> 00:20:19,710
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Amoris　あなたに必要されたのは</b></font>
+
+841
+00:20:19,710 --> 00:20:22,400
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>完美的仪容和完美的笑容</b></font>
+
+842
+00:20:19,710 --> 00:20:22,400
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>完璧の身だしなみと完璧な笑顔</b></font>
+
+843
+00:20:22,400 --> 00:20:26,170
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>必须把最好的你展现给客人</b></font>
+
+844
+00:20:22,400 --> 00:20:26,170
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お客様には一番のあなたを見せなければなりません</b></font>
+
+845
+00:20:26,170 --> 00:20:27,750
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>好的</b></font>
+
+846
+00:20:26,170 --> 00:20:27,750
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>はーい</b></font>
+
+847
+00:20:30,770 --> 00:20:33,590
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>让各位久等了</b></font>
+
+848
+00:20:30,770 --> 00:20:33,590
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>大変長らくお待たせいたしました</b></font>
+
+849
+00:20:33,590 --> 00:20:36,830
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>欢迎来到 Ave Mujica 的假面舞会</b></font>
+
+850
+00:20:33,590 --> 00:20:36,830
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ようこそ　Ave Mujica のマスカレードへ</b></font>
+
+851
+00:20:36,830 --> 00:20:38,990
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>今晚  我们为各位来宾</b></font>
+
+852
+00:20:36,830 --> 00:20:38,990
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>今宵はゲストの皆様のために</b></font>
+
+853
+00:20:38,990 --> 00:20:41,760
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>准备了美丽的人偶们</b></font>
+
+854
+00:20:38,990 --> 00:20:41,760
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>麗しい人形たちをご用意いたしました</b></font>
+
+855
+00:20:42,160 --> 00:20:44,430
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>聪明的 Timoris</b></font>
+
+856
+00:20:42,160 --> 00:20:44,430
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>聡明な Timoris</b></font>
+
+857
+00:20:44,430 --> 00:20:46,350
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>慈爱的 Amoris</b></font>
+
+858
+00:20:44,430 --> 00:20:46,350
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>慈愛な Amoris</b></font>
+
+859
+00:20:46,350 --> 00:20:48,270
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>温柔的 Doloris</b></font>
+
+860
+00:20:46,350 --> 00:20:48,270
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>心優しき Doloris</b></font>
+
+861
+00:20:48,850 --> 00:20:50,880
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>顺从的 Mortis</b></font>
+
+862
+00:20:48,850 --> 00:20:50,880
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>従順な Mortis</b></font>
+
+863
+00:20:50,880 --> 00:20:52,610
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>以及我</b></font>
+
+864
+00:20:50,880 --> 00:20:52,610
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>そしてわたくしは</b></font>
+
+865
+00:20:52,610 --> 00:20:54,780
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>高贵的 Oblivions</b></font>
+
+866
+00:20:52,610 --> 00:20:54,780
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>気高き Oblivions</b></font>
+
+867
+00:20:55,280 --> 00:20:58,530
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>好好看着  这完美的笑容</b></font>
+
+868
+00:20:55,280 --> 00:20:58,530
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>よくご覧になって　この完璧な笑顔</b></font>
+
+869
+00:20:58,530 --> 00:20:59,780
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>完美？</b></font>
+
+870
+00:20:58,530 --> 00:20:59,780
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>完璧？</b></font>
+
+871
+00:21:03,160 --> 00:21:05,290
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这种僵硬的笑容</b></font>
+
+872
+00:21:03,160 --> 00:21:05,290
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>こんな張り付いた笑顔なんで</b></font>
+
+873
+00:21:05,290 --> 00:21:07,540
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>谁都不会想要的</b></font>
+
+874
+00:21:05,290 --> 00:21:07,540
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>誰も欲しくなーい</b></font>
+
+875
+00:21:08,590 --> 00:21:10,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>不从心底微笑的话</b></font>
+
+876
+00:21:08,590 --> 00:21:10,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>心から笑わないと</b></font>
+
+877
+00:21:11,380 --> 00:21:13,680
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>会变成这样…</b></font>
+
+878
+00:21:11,380 --> 00:21:13,680
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>こんな風に</b></font>
+
+879
+00:21:15,050 --> 00:21:15,910
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>喵姆？</b></font>
+
+880
+00:21:15,050 --> 00:21:15,910
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>にゃむち？</b></font>
+
+881
+00:21:15,910 --> 00:21:16,800
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>什么？</b></font>
+
+882
+00:21:15,910 --> 00:21:16,800
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>なんで？</b></font>
+
+883
+00:21:16,800 --> 00:21:19,180
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>看吧  我就说是喵姆</b></font>
+
+884
+00:21:16,800 --> 00:21:19,180
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>はら　やっぱにゃむちだった</b></font>
+
+885
+00:21:21,800 --> 00:21:23,010
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>竟敢这样做…</b></font>
+
+886
+00:21:21,800 --> 00:21:23,010
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>なんてことを…</b></font>
+
+887
+00:21:23,010 --> 00:21:25,220
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>听不见</b></font>
+
+888
+00:21:23,010 --> 00:21:25,220
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>聞こえない</b></font>
+
+889
+00:21:25,220 --> 00:21:26,960
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Mortis</b></font>
+
+890
+00:21:25,220 --> 00:21:26,960
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ねえ　Mortis</b></font>
+
+891
+00:21:26,960 --> 00:21:29,580
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你真正的表情是什么样的？</b></font>
+
+892
+00:21:26,960 --> 00:21:29,580
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ほんとの顔はどんな顔？</b></font>
+
+893
+00:21:32,310 --> 00:21:33,230
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>真的假的</b></font>
+
+894
+00:21:32,310 --> 00:21:33,230
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>噓</b></font>
+
+895
+00:21:34,120 --> 00:21:36,360
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>若叶和森美奈美的女儿</b></font>
+
+896
+00:21:34,120 --> 00:21:36,360
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>若葉と森みなみの娘</b></font>
+
+897
+00:21:38,290 --> 00:21:40,490
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你那僵硬的表情</b></font>
+
+898
+00:21:38,290 --> 00:21:40,490
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ひきつった顔</b></font>
+
+899
+00:21:40,760 --> 00:21:42,300
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你打算干什么</b></font>
+
+900
+00:21:40,760 --> 00:21:42,300
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>どういうおつもりで？</b></font>
+
+901
+00:21:43,540 --> 00:21:45,240
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你的脸呢？</b></font>
+
+902
+00:21:43,540 --> 00:21:45,240
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>あんたの顔は？</b></font>
+
+903
+00:21:46,710 --> 00:21:49,160
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>{\an8}Disruption 的海铃？是谁？</b></font>
+
+904
+00:21:46,710 --> 00:21:49,160
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>{\an8}Disruption の海鈴？誰？</b></font>
+
+905
+00:21:48,000 --> 00:21:51,540
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>漂亮的脸蛋  真无聊</b></font>
+
+906
+00:21:48,000 --> 00:21:51,540
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>綺麗な顔　つまんない</b></font>
+
+907
+00:21:53,760 --> 00:21:55,550
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你真做的出来啊</b></font>
+
+908
+00:21:53,760 --> 00:21:55,550
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>やってくれましたわね</b></font>
+
+909
+00:21:55,550 --> 00:21:56,970
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>小祥</b></font>
+
+910
+00:21:55,550 --> 00:21:56,970
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>さきちゃん</b></font>
+
+911
+00:21:56,970 --> 00:21:59,130
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这个势头已经无法阻止了  先下台</b></font>
+
+912
+00:21:56,970 --> 00:21:59,130
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>この流れは止められない　一旦下がって</b></font>
+
+913
+00:21:59,130 --> 00:22:02,590
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Oblivions  看着前面</b></font>
+
+914
+00:21:59,130 --> 00:22:02,590
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Oblivions　前を向いて</b></font>
+
+915
+00:22:02,590 --> 00:22:05,430
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>看  头发又乱了</b></font>
+
+916
+00:22:02,590 --> 00:22:05,430
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ほら　髪が乱れる</b></font>
+
+917
+00:22:05,430 --> 00:22:07,290
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>衣领应该要</b></font>
+
+918
+00:22:05,430 --> 00:22:07,290
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>襟元は確か</b></font>
+
+919
+00:22:07,290 --> 00:22:09,480
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>笔笔直</b></font>
+
+920
+00:22:07,290 --> 00:22:09,480
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>真っ直ぐだよね</b></font>
+
+921
+00:22:09,480 --> 00:22:10,850
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你这…</b></font>
+
+922
+00:22:09,480 --> 00:22:10,850
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>この</b></font>
+
+923
+00:22:10,850 --> 00:22:12,690
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你所需要的</b></font>
+
+924
+00:22:10,850 --> 00:22:12,690
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>あんたに必要されたのは</b></font>
+
+925
+00:22:12,690 --> 00:22:16,170
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>是完美的仪容和完美的——</b></font>
+
+926
+00:22:12,690 --> 00:22:16,170
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>完璧な身だしなみと　完璧な——</b></font>
+
+927
+00:22:16,170 --> 00:22:16,980
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>笑容</b></font>
+
+928
+00:22:16,170 --> 00:22:16,980
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>笑顔</b></font>
+
+929
+00:22:17,470 --> 00:22:21,490
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>必须把最好的你展现给客人</b></font>
+
+930
+00:22:17,470 --> 00:22:21,490
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>お客様には一番のあんたを見せないと</b></font>
+
+931
+00:22:21,940 --> 00:22:22,990
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>呐</b></font>
+
+932
+00:22:21,940 --> 00:22:22,990
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ねえ</b></font>
+
+933
+00:22:35,690 --> 00:22:37,000
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Soyo</b></font>
+
+934
+00:22:35,690 --> 00:22:37,000
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>そよりん</b></font>
+
+935
+00:22:41,510 --> 00:22:43,380
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>真是好表情</b></font>
+
+936
+00:22:41,510 --> 00:22:43,380
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>いい顔</b></font>
+
+937
+00:22:43,380 --> 00:22:45,220
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>你打算怎么办？</b></font>
+
+938
+00:22:43,380 --> 00:22:45,220
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>あんたはどうする？</b></font>
+
+939
+00:22:57,770 --> 00:22:58,710
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>是初华！</b></font>
+
+940
+00:22:57,770 --> 00:22:58,710
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>ウイカちゃんだ</b></font>
+
+941
+00:22:58,710 --> 00:23:00,080
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>为什么 Sumimi 会在这里？</b></font>
+
+942
+00:22:58,710 --> 00:23:00,080
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>なんで　Sumimi は？</b></font>
+
+943
+00:23:00,080 --> 00:23:01,820
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>Ave Mujica 太牛了</b></font>
+
+944
+00:23:00,080 --> 00:23:01,820
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>Ave Mujica ヤバ</b></font>
+
+945
+00:23:06,270 --> 00:23:09,540
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>她的秘密将在月光下被揭露</b></font>
+
+946
+00:23:06,270 --> 00:23:09,540
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>彼女の秘密は月の下に暴かれ</b></font>
+
+947
+00:23:09,540 --> 00:23:14,290
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>{\an8}今晚  我们将以真正的姿态恭候各位</b></font>
+
+948
+00:23:09,540 --> 00:23:14,290
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>{\an8}今宵　真の姿でお待ちしております</b></font>
+
+949
+00:23:10,110 --> 00:23:14,290
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>人偶们将重新变回人类的姿态</b></font>
+
+950
+00:23:10,110 --> 00:23:14,290
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>人形たちは　人間の姿に取り戻す</b></font>
+
+951
+00:23:14,290 --> 00:23:16,760
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>{\an8}请带着慈悲和爱</b></font>
+
+952
+00:23:14,290 --> 00:23:16,760
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>{\an8}どうか慈悲と愛を持って</b></font>
+
+953
+00:23:14,820 --> 00:23:16,760
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>这是幸福</b></font>
+
+954
+00:23:14,820 --> 00:23:16,760
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>それは幸福が</b></font>
+
+955
+00:23:16,760 --> 00:23:20,010
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>{\an8}迎接这些人偶吧</b></font>
+
+956
+00:23:16,760 --> 00:23:18,170
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>亦或是毁灭</b></font>
+
+957
+00:23:16,760 --> 00:23:20,010
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>{\an8}人形たちを迎え入れてくださいますよう</b></font>
+
+958
+00:23:16,760 --> 00:23:18,170
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>破滅が</b></font>
+
+959
+00:23:18,670 --> 00:23:20,920
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>命运的齿轮</b></font>
+
+960
+00:23:18,670 --> 00:23:20,920
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>運命の歯車は</b></font>
+
+961
+00:23:22,150 --> 00:23:23,550
+<font face="Source Han Sans SC" size="75" color="#f0f0f0"><b>不会停止运转</b></font>
+
+962
+00:23:22,150 --> 00:23:23,550
+<font face="Source Han Sans" size="48" color="#f0f0f0"><b>止まらない</b></font>
+
+963
+00:23:36,940 --> 00:23:39,940
+<font face="方正粗雅宋_GBK" size="50" color="#e5e5e5">{\an8}本字幕由北宇治字幕组制作 仅供交流试看之用 TG@KitaUji
+翻译: 鳥谷真琴厨 夏空凛 双柱　校对: 双柱　曲译: Aki惊蛰　时轴: 熠　压制: ebb & flow</font>
+
+964
+00:23:36,940 --> 00:23:39,940
+<font face="方正粗雅宋_GBK" size="70" color="#f7f5f7"><font size="75">用结果说话</font></font>
+
